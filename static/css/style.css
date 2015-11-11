@@ -6555,8 +6555,8 @@ section.home{
 }
 
 .home-title{
-	min-height:468px;
-	max-height:625px;
+	min-height:836px;
+	max-height:836px;
 	margin-top:40px;
 	color:#4cba6f;
 	background-size:cover;
@@ -6580,8 +6580,8 @@ section.home{
 }
 
 .home-title img{
-	width:300px;
-	height:200px;
+	width:400px;
+	height:400px;
 	margin:0 auto;
 	margin-bottom:40px
 }
