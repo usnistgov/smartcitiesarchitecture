@@ -1,6 +1,6 @@
 # Site settings
-title: NistPagesTemplate
-description: "To improve the electric grid, we must empower consumers. Join the effort to give all Americans the information they need to become active participants in their own power usage."
+title: Smart Cities Architecture
+description: "A reference framework for the development of architectures for incremental and composable Smart Cities."
 
 baseurl: "/smartcitiesarchitecture"
 rooturl: ""
