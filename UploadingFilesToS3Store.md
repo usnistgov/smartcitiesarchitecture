@@ -8,17 +8,26 @@ For windows:
 1. install [Python](https://www.python.org/ftp/python/2.7.10/python-2.7.10.msi)
 
 1. Add python path to environment path variable
+a.	Python 2.7 will install to C:\Python, and pip.exe to C:\Python\Scripts. 
+b.	Add these to the path using Control Panel: System: Advanced System Settings: Environment Variables: System Variables: Path  and edit that by appending ;C:\Python to the end 
+
+1. Use the Python "pip" program to install additional tools:
+    C:\Python27\Scripts\pip install beautifulsoup4
+    C:\Python27\Scripts\pip install requests-ntlm
+    C:\Python27\Scripts\pip install boto
 
 1. Add a template for credentials in %USERPROFILE%\.aws
+a.	Add a “.aws” sub-directory under C:\Users\USERNAME using command prompt “mkdir .aws” from >C:\Users\USERNAME 
+b.	Use Notepad++ to create a file (with contents below, 5 lines, which serves as the template for credentials) and save as “credentials.”
 
 
 Contents of %USERPROFILE%\.aws\credentials. file:
 
-		[default]
-		output = json
-		region = us-west-2
-		aws_access_key_id = 
-		aws_secret_access_key = 
+	[default]
+	output = json
+	region = us-west-2
+	aws_access_key_id = 
+	aws_secret_access_key = 
 
 ## Test your configuration
 1. Open a command window in the NistPagesTemplate main directory
