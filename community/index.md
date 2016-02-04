@@ -1,7 +1,14 @@
 ---
-title: Community
+title: Working Groups
 layout: page
 ---
-#Community
-The purpose of this page is to allow visitors and participants to see .... 
+#Working Groups
+This activity builds on the work of two related NIST efforts – the [Global City Teams Challenge](https://www.us-ignite.org/globalcityteams/) that encourages “action clusters” to form and collaborate to demonstrate technologies at city scale, and, the [CPS Framework](http://www.nist.gov/el/nist-releases-draft-framework-cyber-physical-systems-developers.cfm ) which provides for a scientific underpinning of the description of the Internet of Things.
+
+It joins the efforts of collaborators in a set of activities designed to:
+
+   1. [Document the scope of smart city applications and metrics]({{ site.baseurl }}/community/applicationframework),
+   1. [Determine “Pivotal Points of Interoperability” that multiple smart city technologies share in common]({{ site.baseurl }}/community/consensusppi), and,
+   1. [Discover and document actual smart city deployments which make use of two or more different technologies and are integrated using Pivotal Points of Interoperability]({{ site.baseurl }}/community/deployppi).
+
 

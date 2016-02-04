@@ -1,19 +1,20 @@
 ---
-title: Transactive Energy Library
+title: IoT-Enabled Smart City Framework Library
 layout: page
 ---
+
 #Library
 
 ---
-<h2>Transactive Energy Library</h2>
-<p>The following documents provide background on Transactive Energy</p>
+<h2>IoT-Enabled Smart City Framework Library</h2>
+<p>The following documents are working documents of the IoT-Enabled Smart City Framework</p>
 <section>
 
-<a href="#video">Videos</a> || <a href="#presentation">Presentations</a> || <a href="#document">Documents</a> || <a href="#TEapproach">TE Approaches</a> || <a href="#standard">Standards</a>
+<a href="#video">Videos</a> || <a href="#presentation">Presentations</a> || <a href="#document">Documents</a> 
 <hr />
 
 <a id="Presentation">&nbsp;</a>
-<h3>TE Presentations</h3>
+<h3>Presentations</h3>
 <dl>
 {% for document in site.data.documents %}
 
@@ -44,7 +45,7 @@ layout: page
 </dl>
 
 <a id="document">&nbsp;</a>
-<h3>TE Documents</h3>
+<h3>Documents</h3>
 <dl>
 {% for document in site.data.documents %}
 
@@ -74,37 +75,6 @@ layout: page
 {% endfor %}
 </dl>
 
-
-<a id="espidev">&nbsp;</a>
-<h3>TE Approaches</h3>
-<dl>
-{% for document in site.data.documents %}
-
-  {% if document.category == "TEapproach" %}
-  <dt>
-    {% if document.html %}
-    <a href="{{document.html}}" >
-    {{document.name}} (Web Page)</a>
-    {% endif %}
-
-    {% if document.doc %}
-    <a href="{{document.doc}}" >
-    {{document.name}} (Document) </a>
-    {% endif %}
-
-    {% if document.pdf %}
-    <a href="{{document.pdf}}" >
-    {{document.name}} (.pdf) </a>
-    {% endif %}
-
-  </dt>
-
-
-  <dd>{{document.description}}</dd>
-
-{% endif %}
-{% endfor %}
-</dl>
 
 
 
