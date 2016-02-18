@@ -6555,10 +6555,11 @@ section.home{
 
 .home-title{
 	min-height:100%;
+	max-height:100%;
 	margin-top:40px;
 	color:#4cba6f;
-	background-size:cover;
-	background-position:center center
+/* 	background-size:cover;
+ */	background-position:center center
 }
 
 @media (min-width:1200px){
