@@ -8,3 +8,11 @@
 #   sha256: sha256 checksum
 #   team: NistPagesTemplate Team id -- NistPagesTemplate for all
 #   featured: true (if item should be featured)
+
+- name: "IoT-Enabled Smart City Framework White Paper"
+  description: "Introductory white paper describing the IoT-Enabled Smart City Framework collaboration project"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/IoT-EnabledSmartCityFrameworkWP20160212.pdf
+  md5: 4c5ce4749543812ade097a398878fd5f
+  sha512: bd17b414b6e5dc4beed14a60701f27f6cf95f171c40be6d0b0ef0974f92c5256c1a31e9a01734762c2fcf73a5c9659c363fe3550c665b34275a47c2332af7dfa
+  team: smartcityframework

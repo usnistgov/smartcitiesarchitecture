@@ -69,11 +69,11 @@ import subprocess
 
 import initializeCredentials
 
-s3Prefix = "https://s3.amazonaws.com/nist-sgcps/NistPagesTemplate/"
-bucket = "nist-sgcps/NistPagesTemplate/"
+s3Prefix = "https://s3.amazonaws.com/nist-sgcps/smartcityframework/"
+bucket = "nist-sgcps/smartcityframework/"
 
 validCategories = set(
-    ['document', 'presentation', 'TEapproach', 'standard', 'video', ''])
+    ['document', 'presentation', 'standard', 'video', ''])
 
 bufferSize = 1 * 1024 * 1024  # 1 MB
 
