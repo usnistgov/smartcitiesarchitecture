@@ -12,7 +12,7 @@
 - name: "IoT-Enabled Smart City Framework White Paper"
   description: "Introductory white paper describing the IoT-Enabled Smart City Framework collaboration project"
   category: "document"
-  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/IoT-EnabledSmartCityFrameworkWP20160212.pdf
-  md5: 4c5ce4749543812ade097a398878fd5f
-  sha512: bd17b414b6e5dc4beed14a60701f27f6cf95f171c40be6d0b0ef0974f92c5256c1a31e9a01734762c2fcf73a5c9659c363fe3550c665b34275a47c2332af7dfa
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/IoT-EnabledSmartCityFrameworkWP.pdf
+  md5: 64a6e0f7e008cf32582c2cc90bd800ee
+  sha512: 5a847db2ed8ed58747cfe51f0253fe7ff20d0de8593c21fde79653e246fcb57ccef660cfb6a114f8e731dd0f5b8bcefad61102a36656992e4680d58602360d5f
   team: smartcityframework
