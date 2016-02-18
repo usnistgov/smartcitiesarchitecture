@@ -6554,8 +6554,7 @@ section.home{
 }
 
 .home-title{
-	min-height:560px;
-	max-height:560px;
+	min-height:100%;
 	margin-top:40px;
 	color:#4cba6f;
 	background-size:cover;
