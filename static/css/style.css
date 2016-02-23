@@ -303,7 +303,7 @@ input,button,select,textarea{
 
 a{
 	color:#4cba6f;
-	text-decoration:none
+	text-decoration:underline
 }
 
 a:hover,a:focus{
@@ -2223,6 +2223,7 @@ textarea.input-lg,select[multiple].input-lg{
 .btn-primary{
 	color:#fff;
 	background-color:#4cba6f;
+	text-decoration:underline;
 	border-color:#42ab63
 }
 
@@ -6507,6 +6508,7 @@ header.banner .banner-nav .main-nav ul{
 header.banner .banner-nav .main-nav ul>li{
 	display:inline-block;
 	padding-left:5px;
+	text-decoration:underline;
 	padding-right:5px
 }
 
@@ -6532,6 +6534,7 @@ footer.site-footer .credits{
 .footer-nav ul>li{
 	display:inline-block;
 	padding-left:5px;
+	text-decoration:underline;
 	padding-right:5px
 }
 
@@ -6554,12 +6557,12 @@ section.home{
 }
 
 .home-title{
-	min-height:100%;
-	max-height:100%;
+	min-height:468px;
+	max-height:625px;
 	margin-top:40px;
 	color:#4cba6f;
-/* 	background-size:cover;
- */	background-position:center center
+	background-size:cover;
+	background-position:center center
 }
 
 @media (min-width:1200px){
