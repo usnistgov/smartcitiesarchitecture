@@ -13,7 +13,7 @@ Agenda: tbd
 
 Registration: [link](https://appam.certain.com/profile/form/index.cfm?PKformID=0x297171fdf)
 
-Logistics: tbd
+Location: [NIST, 100 Bureau Drive, Gaithersburg, Maryland 20899](http://nist.gov/public_affairs/visitor/index.cfm)
 
 
 ## April 14-15, 2016 ENEA, Rome Italy
@@ -27,8 +27,8 @@ Lungotevere Thaon di Revel, 76 - 00196 Rome - Tel. +39-06-36271 - Fax +39-06-362
 
 Agenda: tbd
 
-Registration: tbd
+Registration: [link](http://www.cross-tec.enea.it/tecnopolo/?q=14)
 
-Logistics:  http://www.enea.it/en/where-we-are/rome-headquarters/more-information 
+Location:  [ENEA Headquarters, Rome Italy](http://www.enea.it/en/where-we-are/rome-headquarters/more-information) 
 
 
