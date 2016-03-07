@@ -9,7 +9,7 @@ The kick-off workshop for the initiative will take place at NIST’s Gaithersbur
 
 ### Venue:
 
-Agenda: tbd
+Agenda: [download](http://www.nist.gov/cps/upload/GCTC16Agenda.pdf)
 
 Registration: [link](https://appam.certain.com/profile/form/index.cfm?PKformID=0x297171fdf)
 
