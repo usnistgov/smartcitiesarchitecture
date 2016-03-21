@@ -4,7 +4,16 @@ layout: page
 ---
 #Consensus PPI
 
-The purpose of the Consensus PPI subgroup is to analyze existing exemplary smart city architecture and Internet of Things (IoT) specifications including standards, architectures, frameworks, and deployments.
+**Email List:** [mail to](mailto:scf_consenusppi@nist.gov) or [join](mailto:scf_consenusppi-join@nist.gov) 
+
+**Workshop Webinars:** [https://global.gotomeeting.com/join/752972149](https://global.gotomeeting.com/join/752972149) phone:+1(312)757-3121;404083029#
+
+**Meetings:** TBD
+
+
+##Charter
+
+The purpose of the Consensus PPI subgroup is to analyze existing exemplary smart city architecture and Internet of Things (IoT) descriptions including standards, architectures, frameworks, and deployments.
 
 It will document the overlapping concerns addressed such as functionality, data, timing, trustworthiness, and other concerns identified in the [CPS Framework](http://www.nist.gov/el/nist-releases-draft-framework-cyber-physical-systems-developers.cfm).
 
