@@ -16,3 +16,60 @@
   md5: 64a6e0f7e008cf32582c2cc90bd800ee
   sha512: 5a847db2ed8ed58747cfe51f0253fe7ff20d0de8593c21fde79653e246fcb57ccef660cfb6a114f8e731dd0f5b8bcefad61102a36656992e4680d58602360d5f
   team: smartcityframework
+- name: "Introduction of IES-City Framework"
+  description: "Welcome from Dr. David Wollman, NIST and the IES-City Framework Partners. Project followed by overview by Dr. Martin Burns"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/GCTCTechJamKickoff/IoT-EnabledSmartCityFrameworkOverviewFinal_20160324.pdf
+  md5: 5cb7b8dceb9d21d498f6999f4c9633a2
+  sha512: 2722112b4ad2e9b52ecfe486972edb58c01a3f3cb2588a86363f4e4a60b147f9ea8847cc0966f659e578170b10769b130d11670dab16194c2651b228aab8600d
+  team: smartcityframeworkkickoffworkshopnist
+- name: "Michal Koenig, Qualcomm"
+  description: "Michal Koenig, Qualcomm"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/GCTCTechJamKickoff/MichalKoenig_NIST_24_March_2016.pdf
+  md5: 95f0df4f8b662ede4bfa8f6e53eaba7a
+  sha512: ccf24f1e0513d540e43ad4756449f5ec20e4f34322ebc06d14242f636c60e83416d2e957699f608ff30f5921abd7a873fd6e39f99a80ba1915b201d7809bc4d3
+  team: smartcityframeworkkickoffworkshopnist
+- name: "Dan Hoffman, Montgomery County Maryland, USA"
+  description: "Dan Hoffman, Montgomery County Maryland, USA"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/GCTCTechJamKickoff/DanHoffman_IOT_Deployed_PPI.pdf
+  md5: d6fc35c43af2dad6c57dee315328ab46
+  sha512: a32891d97edc4db100456138c17c808249733397c1395276fa633a900319a95e46de7572adbc740235346d107054faa7edb98ce88132eccbd4ff0fdd7bb6b4e9
+  team: smartcityframeworkkickoffworkshopnist
+- name: "David Jenkins, IBM"
+  description: "David Jenkins, IBM"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/GCTCTechJamKickoff/DavidJenkins_IBM_Smart_City.pdf
+  md5: f89d0431b655338f95fb2939c633af35
+  sha512: 11953fc9a32c17c5ec3d3d9d79fb4ceecf33ca14aeb97c04213cd340b986922927f269c92d7ef51c4d522aa57f2d049a72a2897793a1c67a71378aea82c015cd
+  team: smartcityframeworkkickoffworkshopnist
+- name: "James Aloisi (Remote) - City Protocol"
+  description: "James Aloisi (Remote) - City Protocol"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/GCTCTechJamKickoff/JimAloisi_NIST_IES_city_presentation_jarecov_3_2016-2.pdf
+  md5: d4c8795a5adc8bd226c549141e4818b7
+  sha512: 70e4c5ebb950016f2c93a579a37884b8dc4b9c809e870ccad23f27db182b5da5eda34a3df011b6f8b295ac9ea98abbfd6c1caed40f686cd80283a1270345afce
+  team: smartcityframeworkkickoffworkshopnist
+- name: "Shi-Wan Lin (Remote) - Industrial Internet Consortium"
+  description: "Shi-Wan Lin (Remote) - Industrial Internet Consortium"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/GCTCTechJamKickoff/Shi-WanLin_ies-city-20160324.pdf
+  md5: a43c3d325eb04f857906d2efbb4ad68d
+  sha512: 71bcd9f1bccad4d98d8a72fb6ad6b1bc598840427545a549f720b5a5e27fdcd6ef5f181c29272a5de11313247cd926bafe02f234e3cc61deb546367b1b8b2af5
+  team: smartcityframeworkkickoffworkshopnist
+- name: "Ramesh Peri, Intel"
+  description: "Ramesh Peri, Intel"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/GCTCTechJamKickoff/RameshPeri_NIST-Presentation.pdf
+  md5: 039d78609178b5e9c381731569dc1d91
+  sha512: 012b4f44ade419161643fed4648dce5b383b27105e5dc4110b318dbd9cbafcac3deaf1bae7c894fb6dfb78d465a6bcc809ecd8cddb6bb5ced876c9d7b9ea593f
+  team: smartcityframeworkkickoffworkshopnist
+- name: "Stephano de Panfilis, Engineering - Open and Agile Smart Cities"
+  description: "Stephano de Panfilis, Engineering - Open and Agile Smart Cities"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/GCTCTechJamKickoff/StefanoDePanfilis_20160324-FIWAR_and_OASC-at-IES.pdf
+  md5: f1cdfa5b0b8b34d64debe06afefce03e
+  sha512: 627df21232727b214b0b3a0a7cc5575563288795d8d2023206de95c8e7c4923933ae4533825f62fc468b7ee605ca18368714e774ff67d985599570015d559043
+  team: smartcityframeworkkickoffworkshopnist
+  
