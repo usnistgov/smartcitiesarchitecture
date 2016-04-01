@@ -29,7 +29,7 @@ Lungotevere Thaon di Revel, 76 - 00196 Rome - Tel. +39-06-36271 - Fax +39-06-362
 
 Agenda: tbd
 
-Registration: [link](http://www.cross-tec.enea.it/tecnopolo/?q=14)
+Registration: [link](http://www.cross-tec.enea.it/spring2/spring_insert_plus.asp?operazione=put&rtdr=/tecnopolo&xmlsrc=/tecnopolo/imple/eventIESCITY2-reg-form.xml&strposta=1&lingua=en)
 
 Location:  [ENEA Headquarters, Rome Italy](http://www.enea.it/en/where-we-are/rome-headquarters/more-information) 
 
