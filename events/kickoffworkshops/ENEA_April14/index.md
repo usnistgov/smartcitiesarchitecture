@@ -129,10 +129,9 @@ style="font-size: 11pt; font-family: &quot;Times New Roman&quot;,serif;"
 lang="EN-GB">11.30-11.45</span></b></td>
 <td style="vertical-align: top; width: 718px;"><b style=""><span
 style="font-size: 11pt; font-family: &quot;Times New Roman&quot;,serif;"
-lang="EN-GB">IoT-A (Internet of Things – Architecture) project</span></b><span
+lang="EN-GB">Activities for IoT-enabled smart city in Korea </span></b><span
 style="font-size: 11pt; font-family: &quot;Times New Roman&quot;,serif;"
-lang="EN-GB"> (Alessandro Bassi, IoT-A project Technical
-Coordinator, Alessandro Bassi Consulting)</span></td>
+lang="EN-GB"> (Jaeho Kim, Korea Ministry of Science, ICT and Future Planning)</span></td>
 </tr>
 <tr>
 <td style="vertical-align: top;"><br>
@@ -159,9 +158,9 @@ style="font-size: 11pt; font-family: &quot;Times New Roman&quot;,serif;"
 lang="EN-GB">12.30-13:15</span></b></td>
 <td style="vertical-align: top;"><b style=""><span
 style="font-size: 11pt; font-family: &quot;Times New Roman&quot;,serif;"
-lang="EN-GB">Open City Platform</span></b><span
+lang="EN-GB">IoT-A (Internet of Things – Architecture) project</span></b><span
 style="font-size: 11pt; font-family: &quot;Times New Roman&quot;,serif;"
-lang="EN-GB"> (Marco Giolo, Head of Architecture at AlmavivA)</span></td>
+lang="EN-GB"> (Alessandro Bassi, IoT-A project Technical Coordinator, Alessandro Bassi Consulting)</span></td>
 </tr>
 <tr>
 <td style="vertical-align: top;"><b style=""><span
@@ -206,10 +205,9 @@ style="font-size: 11pt; font-family: &quot;Times New Roman&quot;,serif;"
 lang="EN-GB">15.15-16.00</span></b></td>
 <td style="vertical-align: top;"><b style=""><span
 style="font-size: 11pt; font-family: &quot;Times New Roman&quot;,serif;"
-lang="EN-GB">Activities for IoT-enabled smart city in Korea</span></b><span
+lang="EN-GB">Open City Platform </span></b><span
 style="font-size: 11pt; font-family: &quot;Times New Roman&quot;,serif;"
-lang="EN-GB"> (Jaeho Kim, Korea Ministry of Science, ICT and
-Future Planning)</span></td>
+lang="EN-GB"> (Marco Giolo, Head of Architecture at AlmavivA)</span></td>
 </tr>
 <tr>
 <td style="vertical-align: top;"><b style=""><span
