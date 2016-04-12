@@ -226,7 +226,7 @@ lang="EN-GB">16.45-17.30</span></b></td>
 style="font-size: 11pt; font-family: &quot;Times New Roman&quot;,serif;"
 lang="EN-GB">The Open and Agile Smart Cities (OASC) Initiative</span></b><span
 style="font-size: 11pt; font-family: &quot;Times New Roman&quot;,serif;"
-lang="EN-GB"> (Sergio Garcia Gomez, Leader of FIWARE Data and
+lang="EN-GB"> (Juanjo Hierro and Stefano De Panfilis, Leader of FIWARE Data and
 Smart Cities architecture and coordinator of AIOTI Smart Cities,
 Telefonica)</span></td>
 </tr>
@@ -297,7 +297,7 @@ agenzia)</span></li>
 <td style="vertical-align: top;"><b style=""><span
 style="font-size: 11pt; font-family: &quot;Times New Roman&quot;,serif;"
 lang="EN-GB">During the Parallel session there will be a coffee
-break (10.45)</span></b></td>
+break near the Central Room</span></b></td>
 </tr>
 <tr>
 <td style="vertical-align: top;"><br>
@@ -320,7 +320,7 @@ style="font-size: 11pt; font-family: &quot;Times New Roman&quot;,serif;"
 lang="EN-GB">12.00-12.15</span></b></td>
 <td style="vertical-align: top;"><b style=""><span
 style="font-size: 11pt; font-family: &quot;Times New Roman&quot;,serif;"
-lang="EN-GB">Report of Consensus Deployment subgroup</span></b></td>
+lang="EN-GB">Report of Consensus Deployment subgroup  (David Boswarthick, ETSI)</span></b></td>
 </tr>
 <tr>
 <td style="vertical-align: top;"><b style=""><span
@@ -328,7 +328,7 @@ style="font-size: 11pt; font-family: &quot;Times New Roman&quot;,serif;"
 lang="EN-GB">12.15-12.30</span></b></td>
 <td style="vertical-align: top;"><b style=""><span
 style="font-size: 11pt; font-family: &quot;Times New Roman&quot;,serif;"
-lang="EN-GB">Report of Application framework subgroup</span></b></td>
+lang="EN-GB">Report of Application framework subgroup  (Angelo Frascella, ENEA)</span></b></td>
 </tr>
 <tr>
 <td style="vertical-align: top;"><b style=""><span
@@ -336,7 +336,7 @@ style="font-size: 11pt; font-family: &quot;Times New Roman&quot;,serif;"
 lang="EN-GB">12.30-12.45</span></b></td>
 <td style="vertical-align: top;"><b style=""><span
 style="font-size: 11pt; font-family: &quot;Times New Roman&quot;,serif;"
-lang="EN-GB">Report of Consensus PPI subgroup</span></b></td>
+lang="EN-GB">Report of Consensus PPI subgroup (Stefano De Panfilis, Engineering)</span></b></td>
 </tr>
 <tr>
 <td style="vertical-align: top;"><b style=""><span
@@ -415,7 +415,7 @@ prospettiva italiana</span><span
 style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,serif;"
 lang="IT"> </span></b><span
 style="font-size: 12pt; font-family: &quot;Times New Roman&quot;,serif;"
-lang="IT">(ENEA)</span></td>
+lang="IT">(Angelo Frascella e Arianna Brutti, ENEA)</span></td>
 </tr>
 <tr>
 <td style="vertical-align: top;"><b style=""><span
