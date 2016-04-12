@@ -7,7 +7,7 @@ layout: page
 <br>
 <p class="MsoNormal" style="text-align: center;" align="center"><b
 style=""><i style=""><span style="font-size: 14pt; color: red;"
-lang="EN-GB">Draft agenda<o:p></o:p></span></i></b></p>
+lang="EN-GB">Final Agenda<o:p></o:p></span></i></b></p>
 <p class="MsoNormal" style="text-align: center;" align="center"><b
 style=""><span style="font-size: 14pt;" lang="EN-GB">IoT-Enabled Smart
 City Framework <o:p></o:p></span></b></p>
@@ -42,7 +42,7 @@ lang="IT">09.30-09.35</span></b></td>
 style="font-size: 11pt; font-family: &quot;Times New Roman&quot;,serif;"
 lang="IT">Welcome by ENEA</span></b><span
 style="font-size: 11pt; font-family: &quot;Times New Roman&quot;,serif;"
-lang="IT"> (ENEA)</span></td>
+lang="IT"> (Mauro Annunziato, ENEA)</span></td>
 </tr>
 <tr>
 <td style="vertical-align: top; width: 172px;"><b style=""><span
@@ -104,9 +104,7 @@ lang="EN-GB">11.00-11.15</span></b></td>
 style="font-size: 11pt; font-family: &quot;Times New Roman&quot;,serif;"
 lang="EN-GB">The European Vision </span></b><span
 style="font-size: 11pt; font-family: &quot;Times New Roman&quot;,serif;"
-lang="EN-GB">(Representative from European Commission DG Connect - <u><span
-style="background: yellow none repeat scroll 0% 50%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;">To
-be confirmed</span></u>)</span></td>
+lang="EN-GB">(Ragnar Bergström, EUROPEAN COMMISSION  DG for Communications Networks, Content and Technology  Unit E3 - Net Innovation Head of Sector)</span></td>
 </tr>
 <tr>
 <td style="vertical-align: top; width: 172px;"><b style=""><span
