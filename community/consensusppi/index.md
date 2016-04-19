@@ -2,21 +2,44 @@
 title: Consensus PPI
 layout: page
 ---
-#Consensus PPI
+
+# Consensus PPI
 
 **Email List:** [mail to](mailto:scf_consenusppi@nist.gov) or [join](mailto:scf_consenusppi-join@nist.gov) 
 
 **Workshop Webinars:** [https://global.gotomeeting.com/join/752972149](https://global.gotomeeting.com/join/752972149) phone:+1(312)757-3121;404083029#
 
-**Meetings:** TBD
+**Meetings:** Bi-weekly starting May 3, 2016 8:00A EDT
 
 
-##Charter
+## Charter
 
-The purpose of the Consensus PPI subgroup is to analyze existing exemplary smart city architecture and Internet of Things (IoT) descriptions including standards, architectures, frameworks, and deployments.
+The purpose of the Consensus PPI is to analyze:
+  * Existing exemplary Smart City Architecture and Internet of Things (IoT) descriptions including
+    * Standards, specifications
+    * Architectures, frameworks, conceptual models
+    * Platforms, protocols, environments 
 
-It will document the overlapping concerns addressed such as functionality, data, timing, trustworthiness, and other concerns identified in the [CPS Framework](http://www.nist.gov/el/nist-releases-draft-framework-cyber-physical-systems-developers.cfm).
+  * Document their overlapping concerns such as functionality, data, timing, trustworthiness, etc…
 
-Once organized this way, it is possible to determine the common “properties” specified in these overlapping concerns which may include general concepts such as third party authentication, end node identification, and others.
+  * Determine the common “properties” (solutions) specified in these overlapping concerns such as third party authentication, data encryption, time synchronization, data formats/ontologies
 
-The resulting analysis will permit the subgroup to document these “PPI” and show the gaps and overlaps of choices made by the creators of the reviewed specifications.
+  * Document these “PPI” and show the overlaps, gaps, and commonalities of choices made by the creators of the reviewed descriptions
+
+## Deliverables
+
+  * [Stefano] Refine scope on email list prior to May 3rd meeting
+  * [15May] Deliverable 1 – finalize CPS Framework Concerns for IES-City FW
+  * [6Jun] Deliverable 2 – draft analysis of several
+  * [30Sep] Analyzed PPIs version 0.8
+
+## Major Milestones
+
+  * End of April to collect Architectures and Experts
+  * First Teleconference will be beginning of May, Bi-weekly through two months
+  * May 3rd 8:00am, every other Tuesday
+  * May 3: Organizational
+  * May 17th: Review of Concerns
+  * 1 ½ months for analysts
+  * June 12..14 in Austin, TX USA F2F Workshop
+  * July to combine with other groups

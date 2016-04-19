@@ -8,11 +8,20 @@ This activity builds on the work of two related NIST efforts – the [Global Cit
 It joins the efforts of collaborators in a set of activities designed to:
 
    1. **Application Framework:** [Document the scope of smart city applications and metrics]({{ site.baseurl }}/community/applicationframework),
+	**Email List:** [mail to](mailto:scf_applicationframework@nist.gov) or [join](mailto:scf_applicationframework-join@nist.gov) 
+	**Workshop Webinars:** [https://global.gotomeeting.com/join/404083029](https://global.gotomeeting.com/join/404083029) phone:+1(408)650-3123;404083029#
+	**Meetings:** Bi-weekly starting May 3, 2016 8:00A EDT
+
 
    1. **Consensus PPI:** [Determine “Pivotal Points of Interoperability” that multiple smart city technologies share in common]({{ site.baseurl }}/community/consensusppi), and,
-
+	**Email List:** [mail to](mailto:scf_consenusppi@nist.gov) or [join](mailto:scf_consenusppi-join@nist.gov) 
+	**Workshop Webinars:** [https://global.gotomeeting.com/join/752972149](https://global.gotomeeting.com/join/752972149) phone:+1(312)757-3121;404083029#
+	**Meetings:** TBD
 
    1. **Deployed PPI:** [Discover and document actual smart city deployments which make use of two or more different technologies and are integrated using Pivotal Points of Interoperability]({{ site.baseurl }}/community/deployppi).
+	**Email List:** [mail to](mailto:scf_deployppi@nist.gov) or [join](mailto:scf_deployppi-join@nist.gov) 
+	**Workshop Webinars:** [https://global.gotomeeting.com/join/494103221](https://global.gotomeeting.com/join/494103221) phone:+1(224)501-3212;494103221#
+	**Meetings:** TBD
 
 Here is the overall structure of the project working groups:
 
