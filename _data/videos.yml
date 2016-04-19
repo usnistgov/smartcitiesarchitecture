@@ -10,15 +10,15 @@
 - name: "IoT Enabled Smart City Framework, Day 3 Part 1"
   url: "https://s3.amazonaws.com/nist-sgcps/smartcityframework/videos/IoT_Enabled_Smart_City_Framework%2C_Day_3_Part_1.webm"
   description: "Marty Burns, David Wollman, Partner Introductions and Comments, Vatsal Bhat, Eric Simmon, Dan Hoffman."
-  embedded: "{{ site.baseurl }}/assets/IES-CityFrameworkKickoffMeeting.png"
+  embedded: "../assets/IES-CityFrameworkKickoffMeeting.png"
   type: mp4
 - name: "IoT Enabled Smart City Framework, Day 3 Part 2"
   url: "https://s3.amazonaws.com/nist-sgcps/smartcityframework/videos/IoT_Enabled_Smart_City_Framework%2C_Day_3_Part_2.webm"
   description: "Michael Koenig, Dan Hoffman, David Jenkins"
-  embedded: "{{ site.baseurl }}/assets/IES-CityFrameworkKickoffMeeting.png"
+  embedded: "../assets/IES-CityFrameworkKickoffMeeting.png"
   type: mp4
 - name: "IoT Enabled Smart City Framework, Day 3 Part 2"
   url: "https://s3.amazonaws.com/nist-sgcps/smartcityframework/videos/IoT_Enabled_Smart_City_Framework%2C_Day_3_Part_3.webm"
   description: "James Aloisi, Shi-Wan Lin, Ramesh Peri, Stephano de Panfilis"
-  embedded: "{{ site.baseurl }}/assets/IES-CityFrameworkKickoffMeeting.png"
+  embedded: "../assets/IES-CityFrameworkKickoffMeeting.png"
   type: mp4

@@ -3,80 +3,98 @@ title: IoT-Enabled Smart City Framework Library
 layout: page
 ---
 
-#Library
+#IES-City Framework Library
 
 ---
-<h2>IoT-Enabled Smart City Framework Library</h2>
-<p>The following documents are working documents of the IoT-Enabled Smart City Framework</p>
-<section>
+
+<p>The following documents are working documents of the IES-City Framework</p>
 
 <a href="#video">Videos</a> || <a href="#presentation">Presentations</a> || <a href="#document">Documents</a> 
 <hr />
 
 <a id="Presentation">&nbsp;</a>
-<h3>Presentations</h3>
+
+## Presentations
+
+### NIST Workshop
+
 <dl>
 {% for document in site.data.documents %}
-
   {% if document.category == "presentation" %}
+  {% if document.team == "smartcityframeworkkickoffworkshopnist" %}
+  
   <dt>
-    {% if document.html %}
-    <a href="{{document.html}}" >
-    {{document.name}} (Web Page)</a>
-    {% endif %}
-	
-    {% if document.doc %}
-    <a href="{{document.doc}}" >
-    {{document.name}} (Document) </a>
-    {% endif %}
-
-    {% if document.pdf %}
-    <a href="{{document.pdf}}" >
-    {{document.name}} (PDF) </a>
-    {% endif %}
-
+    <a href="{{document.url}}" >
+    {{document.name}} (Presentation)</a>
   </dt>
-
-
   <dd>{{document.description}}</dd>
 
-{% endif %}
+  {% endif %}
+  {% endif %}
+{% endfor %}
+</dl>
+
+### ENEA Workshop
+
+<dl>
+{% for document in site.data.documents %}
+  {% if document.category == "presentation" %}
+  {% if document.team == "smartcityframeworkkickoffworkshopenea" %}
+  
+  <dt>
+    <a href="{{document.url}}" >
+    {{document.name}} (Presentation)</a>
+  </dt>
+  <dd>{{document.description}}</dd>
+
+  {% endif %}
+  {% endif %}
 {% endfor %}
 </dl>
 
 <a id="document">&nbsp;</a>
-<h3>Documents</h3>
+
+## Documents
 <dl>
 {% for document in site.data.documents %}
 
   {% if document.category == "document" %}
   <dt>
-    {% if document.html %}
-    <a href="{{document.html}}" >
-    {{document.name}} (Web Page)</a>
-    {% endif %}
-
-    {% if document.doc %}
-    <a href="{{document.doc}}" >
-    {{document.name}} (Document) </a>
-    {% endif %}
-
-    {% if document.pdf %}
-    <a href="{{document.pdf}}" >
-    {{document.name}} (.pdf) </a>
-    {% endif %}
-
+    <a href="{{document.url}}" >
+    {{document.name}} (Document)</a>
   </dt>
-
-
   <dd>{{document.description}}</dd>
 
 {% endif %}
 {% endfor %}
 </dl>
 
+## Videos
 
+<a id="video">&nbsp;</a>
 
+## Videos From NIST Workshop
+
+{% for video in site.data.videos %}
+<hr />
+<div style="width:470px; display:block'">
+<dl>
+	<dt>{{video.name}}</dt>
+	<dd>{{video.description}}</dd>
+	
+    {% if video.type == 'use_embedded' %}
+	{{video.embedded}}
+    {% endif %}
+	
+    {% if video.type == 'mp4' %}
+	<video width="450" height="240" controls preload="none" poster="{{video.embedded}}">
+		<source src="{{video.url}}" type="video/mp4">
+		Your browser does not support HTML5 video.
+	</video>
+    {% endif %}
+</dl>
+</div>
+{% endfor %}
 
 
   

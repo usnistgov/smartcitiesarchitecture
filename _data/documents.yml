@@ -18,58 +18,121 @@
   team: smartcityframework
 - name: "Introduction of IES-City Framework"
   description: "Welcome from Dr. David Wollman, NIST and the IES-City Framework Partners. Project followed by overview by Dr. Martin Burns"
-  category: "document"
+  category: "presentation"
   url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/GCTCTechJamKickoff/IoT-EnabledSmartCityFrameworkOverviewFinal_20160324.pdf
   md5: 5cb7b8dceb9d21d498f6999f4c9633a2
   sha512: 2722112b4ad2e9b52ecfe486972edb58c01a3f3cb2588a86363f4e4a60b147f9ea8847cc0966f659e578170b10769b130d11670dab16194c2651b228aab8600d
   team: smartcityframeworkkickoffworkshopnist
 - name: "Michal Koenig, Qualcomm"
   description: "Michal Koenig, Qualcomm"
-  category: "document"
+  category: "presentation"
   url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/GCTCTechJamKickoff/MichalKoenig_NIST_24_March_2016.pdf
   md5: 95f0df4f8b662ede4bfa8f6e53eaba7a
   sha512: ccf24f1e0513d540e43ad4756449f5ec20e4f34322ebc06d14242f636c60e83416d2e957699f608ff30f5921abd7a873fd6e39f99a80ba1915b201d7809bc4d3
   team: smartcityframeworkkickoffworkshopnist
 - name: "Dan Hoffman, Montgomery County Maryland, USA"
   description: "Dan Hoffman, Montgomery County Maryland, USA"
-  category: "document"
+  category: "presentation"
   url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/GCTCTechJamKickoff/DanHoffman_IOT_Deployed_PPI.pdf
   md5: d6fc35c43af2dad6c57dee315328ab46
   sha512: a32891d97edc4db100456138c17c808249733397c1395276fa633a900319a95e46de7572adbc740235346d107054faa7edb98ce88132eccbd4ff0fdd7bb6b4e9
   team: smartcityframeworkkickoffworkshopnist
 - name: "David Jenkins, IBM"
   description: "David Jenkins, IBM"
-  category: "document"
+  category: "presentation"
   url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/GCTCTechJamKickoff/DavidJenkins_IBM_Smart_City.pdf
   md5: f89d0431b655338f95fb2939c633af35
   sha512: 11953fc9a32c17c5ec3d3d9d79fb4ceecf33ca14aeb97c04213cd340b986922927f269c92d7ef51c4d522aa57f2d049a72a2897793a1c67a71378aea82c015cd
   team: smartcityframeworkkickoffworkshopnist
 - name: "James Aloisi (Remote) - City Protocol"
   description: "James Aloisi (Remote) - City Protocol"
-  category: "document"
+  category: "presentation"
   url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/GCTCTechJamKickoff/JimAloisi_NIST_IES_city_presentation_jarecov_3_2016-2.pdf
   md5: d4c8795a5adc8bd226c549141e4818b7
   sha512: 70e4c5ebb950016f2c93a579a37884b8dc4b9c809e870ccad23f27db182b5da5eda34a3df011b6f8b295ac9ea98abbfd6c1caed40f686cd80283a1270345afce
   team: smartcityframeworkkickoffworkshopnist
 - name: "Shi-Wan Lin (Remote) - Industrial Internet Consortium"
   description: "Shi-Wan Lin (Remote) - Industrial Internet Consortium"
-  category: "document"
+  category: "presentation"
   url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/GCTCTechJamKickoff/Shi-WanLin_ies-city-20160324.pdf
   md5: a43c3d325eb04f857906d2efbb4ad68d
   sha512: 71bcd9f1bccad4d98d8a72fb6ad6b1bc598840427545a549f720b5a5e27fdcd6ef5f181c29272a5de11313247cd926bafe02f234e3cc61deb546367b1b8b2af5
   team: smartcityframeworkkickoffworkshopnist
 - name: "Ramesh Peri, Intel"
   description: "Ramesh Peri, Intel"
-  category: "document"
+  category: "presentation"
   url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/GCTCTechJamKickoff/RameshPeri_NIST-Presentation.pdf
   md5: 039d78609178b5e9c381731569dc1d91
   sha512: 012b4f44ade419161643fed4648dce5b383b27105e5dc4110b318dbd9cbafcac3deaf1bae7c894fb6dfb78d465a6bcc809ecd8cddb6bb5ced876c9d7b9ea593f
   team: smartcityframeworkkickoffworkshopnist
 - name: "Stephano de Panfilis, Engineering - Open and Agile Smart Cities"
   description: "Stephano de Panfilis, Engineering - Open and Agile Smart Cities"
-  category: "document"
+  category: "presentation"
   url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/GCTCTechJamKickoff/StefanoDePanfilis_20160324-FIWAR_and_OASC-at-IES.pdf
   md5: f1cdfa5b0b8b34d64debe06afefce03e
   sha512: 627df21232727b214b0b3a0a7cc5575563288795d8d2023206de95c8e7c4923933ae4533825f62fc468b7ee605ca18368714e774ff67d985599570015d559043
   team: smartcityframeworkkickoffworkshopnist
   
+- name: "Allesandro Bassi, Bassi Consulting"
+  description: "Allesandro Bassi, An Internet of Things - Architecture Primer"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ENEAKickoff/AllesandroBassi_160414-ROM-NIST.pdf
+  md5: b61920b27c6e3d6f8cbd63ba20afac53
+  sha512: 853a6080d4406db06fa0a4573fb81605839f5cfef1d61028ab5a04da15f046b37a97c10fe6de33f49b77767c576881dc5370e964db825fb9c8df4103b93c7a80
+  team: smartcityframeworkkickoffworkshopenea
+- name: "David Boswarthick, ETSI"
+  description: "David Boswarthick, ETSI"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ENEAKickoff/DavidBoswarthick-ETSI_for_I-ES_City.pdf
+  md5: e27ba4921068714ab4562ac79da43dfb
+  sha512: b6eb4eab8cf82f535a32a1bce182bd79a9613b68b83ebc48b5282e391d1e0864c56484da7144a31420353f1a85507214ccf81916544397a80c95e827b804041c
+  team: smartcityframeworkkickoffworkshopenea
+- name: "Jacques Vermeulen, Nokia"
+  description: "Jacques Vermeulen, Nokia"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ENEAKickoff/JacquesVermeulen_External-SmartCities-ExecView.pdf
+  md5: 2c8b19f6e80329b4c796b0456b2b818b
+  sha512: 0b4372115317a08db80e137db4b5ce010c6247bfb8a01f5525cae5c9f444e529af8aa08d077f663a14c80ba71b919100f556d6085b196a079d7224c0c57b9410
+  team: smartcityframeworkkickoffworkshopenea
+- name: "Jaeho Kim, MSIP"
+  description: "Jaeho Kim, MSIP"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ENEAKickoff/JaehoKim_IoT-enabled_Smart_City_in_Korea.pdf
+  md5: 8d5f2a51878a18c0060178aae31070a5
+  sha512: 3ef390ce741bb69ee9172b48136c3639e237af0a5f7640acb632ce973e93c13662e9384d4703b2fb5b938b3fa8ed37f39646d9f23e44ed21ed8bcf92835d56a5
+  team: smartcityframeworkkickoffworkshopenea
+- name: "Juanjo Hierro, TelefonicaI+D, FIWARE"
+  description: "Juanjo Hierro, TelefonicaI+D, FIWARE"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ENEAKickoff/JuanjoHierro_FIWARE_Transforming_Smart_Cities_into_engines_of_growth.pdf
+  md5: 9746ccf6d67b502522481bad221c71a7
+  sha512: 5da47955831f02f447ca9a27383e29bbef0b97b13938e56540bbd57b26415e2ce2c7a9d7dab501944e544f92a4392ca6c89e14105496b200c2de234934fe782b
+  team: smartcityframeworkkickoffworkshopenea
+- name: "Marco Giolo, Almaviva S.p.A."
+  description: "Marco Giolo, Almaviva S.p.A."
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ENEAKickoff/MarcoGioloOCP.pdf
+  md5: 198da5cb3f48f7668cdd6e94c272eb2f
+  sha512: 7fcd3370dc37a26ce326c57557fb0cdc2ba53e347e62671d4e9e5a9210c00e46ab32ff788fd5db928695928d0109b34d388c5579d1ecc25a5bc9ed4e29716c89
+  team: smartcityframeworkkickoffworkshopenea
+- name: "Martin Burns, NIST"
+  description: "Martin Burns, NIST"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ENEAKickoff/MartyBurns_IoT-EnabledSmartCityFrameworkOverviewFinal_20160414.pdf
+  md5: d91aea28c503222fefa5ae1d18d34e70
+  sha512: 019ddade6d30ecd165466fdad5ae81b2d3b05e345ee4871d592a56f650071b0d3fa42748857ae4563528866d01941f12fc326b84c2ab58fe955c8bc6bee7cd03
+  team: smartcityframeworkkickoffworkshopenea
+- name: "Omar Elloumi, Nokia Bell Labs"
+  description: "Omar Elloumi, Nokia Bell Labs"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ENEAKickoff/OmarElloumi_oneM2M-for_smart_city_FINAL_April_2016.pdf
+  md5: 99d2f05626d49ad1084daf7491da2be7
+  sha512: a0637cf9e96f42c70597bab77a3a3494fe8d2ad51ae10a913ac05518ac6ec39516ac89560a7e61e4041a7d61f1d23dc9cc6e1d8d9c255a66125a52f140cacc65
+  team: smartcityframeworkkickoffworkshopenea
+- name: "Saviour Alfino, BSI"
+  description: "Saviour Alfino, BSI"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ENEAKickoff/SaviourAlfino_BSI_and_Mapping_Research.pdf
+  md5: 201ac1a117e9de5655f6934b5c7e6e2e
+  sha512: 211900e733239a8e5c36c2c2453697944463d7692786f8dc4d397c6ef7610589bd1b2c69253ef284ff213de23a31267bf4bab152912f105fb5e0aac3d108dc52
+  team: smartcityframeworkkickoffworkshopenea
