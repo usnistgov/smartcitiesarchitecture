@@ -4,7 +4,7 @@ layout: page
 ---
 # Kickoff Workshop Details
 
-## April 14-15, 2016 ENEA, Rome Italy
+## (COMPLETED) April 14-15, 2016 ENEA, Rome Italy
 A second workshop will be held April 14-15, 2016 in Rome, Italy, hosted by ENEA. Both workshops will have similar formats with in-depth presentations from experts engaged in activities in the different geographic regions. Interim results will be considered at subsequent workshops in summer 2016. The hope is to produce an initial draft document by September and to finalize it by June of next year.
 
 ### Venue:
