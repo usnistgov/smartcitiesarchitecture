@@ -13,7 +13,7 @@ It joins the efforts of collaborators in a set of activities designed to:
  
   *  **Workshop Webinars:** [https://global.gotomeeting.com/join/404083029](https://global.gotomeeting.com/join/404083029) phone:+1(408)650-3123;404083029#
 
-  *  **Meetings:** Bi-weekly starting May 3, 2016 8:00A EDT
+  *  **Meetings:** TBD
 
 
 ### **Consensus PPI:** [Determine “Pivotal Points of Interoperability” that multiple smart city technologies share in common]({{ site.baseurl }}/community/consensusppi) 
@@ -22,7 +22,7 @@ It joins the efforts of collaborators in a set of activities designed to:
  
   *	**Workshop Webinars:** [https://global.gotomeeting.com/join/752972149](https://global.gotomeeting.com/join/752972149) phone:+1(312)757-3121;404083029#
 
-  *	**Meetings:** TBD
+  *	**Meetings:**  Bi-weekly starting May 3, 2016 8:00A EDT
 
 ### **Deployed PPI:** [Discover and document actual smart city deployments which make use of two or more different technologies and are integrated using Pivotal Points of Interoperability]({{ site.baseurl }}/community/deployppi).
 

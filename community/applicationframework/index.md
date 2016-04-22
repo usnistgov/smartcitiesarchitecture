@@ -12,11 +12,29 @@ layout: page
 **Meetings:** TBD
 
 
-##Charter
+## Charter
 
-The purpose of Application Framework is to explore a summary scope of smart city applications. Much of the content of this activity can be determined from various applications, structures, and, deployment initiatives happening around the globe. The result may be a simple diagram with a list of references. This will provide stakeholders an available cornucopia of applications that satisfy needs in their cities and municipalities.
+### Scope
+  * Assimilate Smart City Application Frameworks (deployed and proposed) 
+  * Capture the Breadth of Applications in Cities (exhaustive list, dynamic in nature)
+  * Provide a Framework to Measure Benefits that can be derived from these Applications (meeting the demand, better service delivery, need-based solutions, to drive behaviors in cities to accelerate innovation, enablers)
+  * Identify Metrics to Assess the Readiness of Cities to Absorb these Applications (accessibility, interoperability, decision maker can evaluate performance)
+### Guiding Principles
+  * Framework/Metrics: Commonly Understandable and Flexible (adaptable)
+  * Pilot Newly Developed Framework and Metrics in 5-6 Cities (diversity)
 
-Also in support of this effort, the collection/documentation of models of smart city applications metrics will help stakeholders evaluate their purchases and offerings.
 
-Critically this subgroup provides user community feedback & interactions for the other two subgroups.
+## Deliverables
+
+  * A Framework to Measure Benefits that can be derived from Assimilated Applications (meeting the demand, better service delivery, need-based solutions, to drive behaviors in cities to accelerate innovation, enablers)
+  * A List of Metrics to Assess the Readiness of Cities to Absorb Smart City Applications (accessibility, interoperability, decision maker can evaluate performance)
+  * Outcomes of 5-6 City Pilots on Benefits Framework and Readiness Metrics
+
+## Major Milestones
+
+  * Assimilate Smart City Application Frameworks – Jun 30, 2016
+  * A Framework to Measure Benefits – July 31, 2016
+  * A List of Metrics to Assess the Readiness of Cities – July 31, 2016
+  * Enrich WG-1 Content with Information from WGs 2 and 3 – August 31, 2016 
+  * Outcomes of 5-6 City Pilots – September 15, 2016
 
