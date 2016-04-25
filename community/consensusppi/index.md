@@ -43,3 +43,19 @@ The purpose of the Consensus PPI is to analyze:
   * 1 ½ months for analysts
   * June 12..14 in Austin, TX USA F2F Workshop
   * July to combine with other groups
+
+# Working Group Files
+
+<dl>
+{% for document in site.data.documents %}
+  {% if document.team == "consensusppi" %}
+  
+  <dt>
+    <a href="{{document.url}}" >
+    {{document.name}} (Presentation)</a>
+  </dt>
+  <dd>{{document.description}}</dd>
+
+  {% endif %}
+{% endfor %}
+</dl>

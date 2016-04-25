@@ -136,3 +136,31 @@
   md5: 201ac1a117e9de5655f6934b5c7e6e2e
   sha512: 211900e733239a8e5c36c2c2453697944463d7692786f8dc4d397c6ef7610589bd1b2c69253ef284ff213de23a31267bf4bab152912f105fb5e0aac3d108dc52
   team: smartcityframeworkkickoffworkshopenea
+- name: "DI210-006-v2-ApplicationFrameworks-IES-City-April15th.pptx"
+  description: "Discussion in working group at workshop"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/WorkingGroups/ApplicationFramework/DI210-006-v2-ApplicationFrameworks-IES-City-April15th.pptx
+  md5: dc295a2c63280486b3f68a68250b6ec3
+  sha512: 06b48f20fcc68134f92b5eb7142c0747af996730b98b55bc0ec8837b8b963ded33d4b1e11eb3ccbdfc0b2928694f1557080acf9bc09cbc7895e65f33727a2408
+  team: applicationframework
+- name: "MG224-015-v1-Outcomes_of_the_discussion_aboutWG1_in_Rome.docx"
+  description: "Notes from ENEA workshop"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/WorkingGroups/ApplicationFramework/MG224-015-v1-Outcomes_of_the_discussion_aboutWG1_in_Rome.docx
+  md5: e7a1f4018195b2f909acc1bc3db22c25
+  sha512: 219f916140c45bc648341a4040ab3140ed71dee4bcc3dade7cf9c0db52122e883186ad09e8cc2d42408e3045281078c243d816a274081c4ff8406d7d0defa058
+  team: applicationframework
+- name: "AspectsConcerns_20160418.xlsm"
+  description: "Draft spreadsheet of CPS Framework Extended Concerns"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/WorkingGroups/ConsensusPPI/AspectsConcerns_20160418.xlsm
+  md5: d5f7d226d41db7bbfa657bc87c974c48
+  sha512: f057563a4284ece52a83ec1505bf4211f3dec8f8799608ab9b92ce683812dd8cd49e9759e7227e69e2fa7e306c1a800388b991cde8a768b76f69b5f05d2508d0
+  team: consensusppi
+- name: "IES-CityFrameworkConsensusPPI_20160415.pptx"
+  description: "Presentation at workshop by Marty Burns"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/WorkingGroups/ConsensusPPI/IES-CityFrameworkConsensusPPI_20160415.pptx
+  md5: 6d665c2b709947d65a9c6cd5ae9ecb5c
+  sha512: 8109b2c819922dd416f250faad6d897d2627af223e11a86af7b88bc06d860498764cacb6c2e7f58bf29f8086ed0a22521c6909a12b80b11249eb72672e141a63
+  team: consensusppi

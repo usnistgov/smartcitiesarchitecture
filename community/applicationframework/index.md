@@ -3,7 +3,7 @@ title: Application Framework
 layout: page
 ---
 
-#Application Framework
+# Application Framework
 
 **Email List:** [mail to](mailto:scf_applicationframework@nist.gov) or [join](mailto:scf_applicationframework-join@nist.gov) 
 
@@ -38,3 +38,18 @@ layout: page
   * Enrich WG-1 Content with Information from WGs 2 and 3 – August 31, 2016 
   * Outcomes of 5-6 City Pilots – September 15, 2016
 
+# Working Group Files
+
+<dl>
+{% for document in site.data.documents %}
+  {% if document.team == "applicationframework" %}
+  
+  <dt>
+    <a href="{{document.url}}" >
+    {{document.name}} (Presentation)</a>
+  </dt>
+  <dd>{{document.description}}</dd>
+
+  {% endif %}
+{% endfor %}
+</dl>
