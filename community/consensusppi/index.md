@@ -21,16 +21,17 @@ layout: page
 ## Charter
 
 The purpose of the Consensus PPI is to analyze:
-  * Existing exemplary Smart City Architecture and Internet of Things (IoT) descriptions including
-    * Standards, specifications
-    * Architectures, frameworks, conceptual models
+
+* Existing exemplary Smart City Architecture and Internet of Things (IoT) descriptions including:
+	* Standards, specifications
+	* Architectures, frameworks, conceptual models
     * Platforms, protocols, environments 
 
-  * Document their overlapping concerns such as functionality, data, timing, trustworthiness, etc…
+* Document their overlapping concerns such as functionality, data, timing, trustworthiness, etc…
 
-  * Determine the common “properties” (solutions) specified in these overlapping concerns such as third party authentication, data encryption, time synchronization, data formats/ontologies
+* Determine the common “properties” (solutions) specified in these overlapping concerns such as third party authentication, data encryption, time synchronization, data formats/ontologies
 
-  * Document these “PPI” and show the overlaps, gaps, and commonalities of choices made by the creators of the reviewed descriptions
+* Document these “PPI” and show the overlaps, gaps, and commonalities of choices made by the creators of the reviewed descriptions
 
 ## Deliverables
 
