@@ -164,7 +164,7 @@
   md5: 6d665c2b709947d65a9c6cd5ae9ecb5c
   sha512: 8109b2c819922dd416f250faad6d897d2627af223e11a86af7b88bc06d860498764cacb6c2e7f58bf29f8086ed0a22521c6909a12b80b11249eb72672e141a63
   team: consensusppi
- - name: "CPS PWG Framework V0.8"
+- name: "CPS PWG Framework V0.8"
   description: "First public review draft of CPS Framework"
   category: "document"
   url: https://s3.amazonaws.com/nist-sgcps/cpspwg/pwgglobal/CPS_PWG_Draft_Framework_for_Cyber-Physical_Systems_Release_0_8_September_2015.pdf
