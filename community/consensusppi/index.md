@@ -53,7 +53,7 @@ The purpose of the Consensus PPI is to analyze:
 
 *Note: this activity will not judge the merits or comparative benefits of any technology. It seeks only to research the potential common Pivotal Points of Interoperability (PPI) that they have in common. Therefore there is a mix of standards, specifications, and commercial suites and ecosystems in the analysis. Analysis by any proponent is purely voluntary. This list will vary during the progress of the project.*
 
-<table style="border:solid 4px;width:100%;font-family:Arial, Helvetica, sans-serif">
+<table style="padding:4px;border-collapse: collapse;border:solid 4px;width:100%;font-family:Arial, Helvetica, sans-serif">
   <tr style="border:solid 2px;background-color:#b3d9ff;font-weight: bold">
     <td >Status (initiating, in-progress, completed)</td>
     <td style="border:solid 1px">Technology</td>		
