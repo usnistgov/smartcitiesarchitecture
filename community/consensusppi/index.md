@@ -53,104 +53,103 @@ The purpose of the Consensus PPI is to analyze:
 
 *Note: this activity will not judge the merits or comparative benefits of any technology. It seeks only to research the potential common Pivotal Points of Interoperability (PPI) that they have in common. Therefore there is a mix of standards, specifications, and commercial suites and ecosystems in the analysis. Analysis by any proponent is purely voluntary. This list will vary during the progress of the project.*
 
-<table style="border:solid 3px #060;width:95%;font-family:Arial, Helvetica, sans-serif">
-  <tr style="border:solid 2px #060;background-color:#b3d9ff;font-weight: bold">
+<table style="border:solid 4px;width:100%;font-family:Arial, Helvetica, sans-serif">
+  <tr style="border:solid 2px;background-color:#b3d9ff;font-weight: bold">
     <td >Status (initiating, in-progress, completed)</td>
-    <td>Technology</td>		
-    <td>Contact</td>
-	<td>Link</td>
+    <td style="border:solid 1px">Technology</td>		
+    <td style="border:solid 1px">Contact</td>
+	<td style="border:solid 1px">Link</td>
   </tr>
   <tr>
-    <td>initiating</td>
-    <td>BSI (British Standards Institution) mapping smart city standards</td>		
-    <td>Contact goes here</td>
-	<td><a href="http://www.bsigroup.com/en-GB/smart-cities/smart-cities-standards-mapping-research-and-modelling/">http://www.bsigroup.com/en-GB/smart-cities/smart-cities-standards-mapping-research-and-modelling/</a></td>
+    <td style="border:solid 1px">initiating</td>
+    <td style="border:solid 1px">BSI (British Standards Institution) mapping smart city standards</td>		
+    <td style="border:solid 1px">Contact goes here</td>
+	<td style="border:solid 1px"><a href="http://www.bsigroup.com/en-GB/smart-cities/smart-cities-standards-mapping-research-and-modelling/">http://www.bsigroup.com/en-GB/smart-cities/smart-cities-standards-mapping-research-and-modelling/</a></td>
   </tr>
   <tr style="background-color:#e6f2ff">
-    <td>initiating</td>
-    <td>Internet of Things - Architecture (IoT-A)</td>		
-    <td></td>
-	<td><a ref="http://www.iot-a.eu/public/public-documents">http://www.iot-a.eu/public/public-documents</a></td>
+    <td style="border:solid 1px">initiating</td>
+    <td style="border:solid 1px">Internet of Things - Architecture (IoT-A)</td>		
+    <td style="border:solid 1px"></td>
+	<td style="border:solid 1px"><a ref="http://www.iot-a.eu/public/public-documents">http://www.iot-a.eu/public/public-documents</a></td>
   </tr>
   <tr>
-    <td>initiating</td>
-    <td>oneM2M (Standards for M2M and the Internet of Things) Architecture</td>		
-    <td></td>
-	<td><a ref="http://www.onem2m.org/technical/published-documents">http://www.onem2m.org/technical/published-documents</a></td>
+    <td style="border:solid 1px">initiating</td>
+    <td style="border:solid 1px">oneM2M (Standards for M2M and the Internet of Things) Architecture</td>		
+    <td style="border:solid 1px"></td>
+	<td style="border:solid 1px"><a ref="http://www.onem2m.org/technical/published-documents">http://www.onem2m.org/technical/published-documents</a></td>
   </tr>
   <tr style="background-color:#e6f2ff">
-    <td>initiating</td>
-    <td>Open City Platform</td>		
-    <td></td>
-	<td><a ref="http://www.opencityplatform.eu/">http://www.opencityplatform.eu/</a></td>
+    <td style="border:solid 1px">initiating</td>
+    <td style="border:solid 1px">Open City Platform</td>		
+    <td style="border:solid 1px"></td>
+	<td style="border:solid 1px"><a ref="http://www.opencityplatform.eu/">http://www.opencityplatform.eu/</a></td>
   </tr>
   <tr>
-    <td>initiating</td>
-    <td>The FIWARE Architecture for Smart Cities</td>		
-    <td></td>
-	<td><a ref="http://fiware.org/">http://fiware.org/</a></td>
+    <td style="border:solid 1px">initiating</td>
+    <td style="border:solid 1px">The FIWARE Architecture for Smart Cities</td>		
+    <td style="border:solid 1px"></td>
+	<td style="border:solid 1px"><a ref="http://fiware.org/">http://fiware.org/</a></td>
   </tr>
   <tr style="background-color:#e6f2ff">
-    <td>initiating</td>
-    <td>City Protocol</td>		
-    <td></td>
-	<td><a ref="http://cityprotocol.org">http://cityprotocol.org</a></td>
+    <td style="border:solid 1px">initiating</td>
+    <td style="border:solid 1px">City Protocol</td>		
+    <td style="border:solid 1px"></td>
+	<td style="border:solid 1px"><a ref="http://cityprotocol.org">http://cityprotocol.org</a></td>
   </tr>
   <tr>
-    <td>initiating</td>
-    <td>The Open and Agile Smart Cities (OASC) Initiative</td>		
-    <td></td>
-	<td><a ref="http://oascities.org/">http://oascities.org/</a></td>
+    <td style="border:solid 1px">initiating</td>
+    <td style="border:solid 1px">The Open and Agile Smart Cities (OASC) Initiative</td>		
+    <td style="border:solid 1px"></td>
+	<td style="border:solid 1px"><a ref="http://oascities.org/">http://oascities.org/</a></td>
   </tr>
   <tr style="background-color:#e6f2ff">
-    <td>initiating</td>
-    <td>Qualcomm</td>		
-    <td></td>
-	<td><a ref="https://www.qualcomm.com/products/smart-cities">https://www.qualcomm.com/products/smart-cities</a></td>
+    <td style="border:solid 1px">initiating</td>
+    <td style="border:solid 1px">Qualcomm</td>		
+    <td style="border:solid 1px"></td>
+	<td style="border:solid 1px"><a ref="https://www.qualcomm.com/products/smart-cities">https://www.qualcomm.com/products/smart-cities</a></td>
   </tr>
   <tr>
-    <td>initiating</td>
-    <td>IBM</td>		
-    <td></td>
-	<td><a ref="http://www.ibm.com/smarterplanet/us/en/smarter_cities/overview/">http://www.ibm.com/smarterplanet/us/en/smarter_cities/overview/</a></td>
+    <td style="border:solid 1px">initiating</td>
+    <td style="border:solid 1px">IBM</td>		
+    <td style="border:solid 1px"></td>
+	<td style="border:solid 1px"><a ref="http://www.ibm.com/smarterplanet/us/en/smarter_cities/overview/">http://www.ibm.com/smarterplanet/us/en/smarter_cities/overview/</a></td>
   </tr>
   <tr style="background-color:#e6f2ff">
-    <td>initiating</td>
-    <td>Industrial Internet Consortium (IIC)</td>		
-    <td></td>
-	<td><a ref="http://www.iiconsortium.org/">http://www.iiconsortium.org/</a></td>
+    <td style="border:solid 1px">initiating</td>
+    <td style="border:solid 1px">Industrial Internet Consortium (IIC)</td>		
+    <td style="border:solid 1px"></td>
+	<td style="border:solid 1px"><a ref="http://www.iiconsortium.org/">http://www.iiconsortium.org/</a></td>
   </tr>
   <tr>
-    <td>initiating</td>
-    <td>Intel</td>		
-    <td></td>
-	<td><a ref="www.intel.com/IoT">www.intel.com/IoT</a></td>
+    <td style="border:solid 1px">initiating</td>
+    <td style="border:solid 1px">Intel</td>		
+    <td style="border:solid 1px"></td>
+	<td style="border:solid 1px"><a ref="www.intel.com/IoT">www.intel.com/IoT</a></td>
   </tr>
   <tr style="background-color:#e6f2ff">
-    <td>initiating</td>
-    <td>Iotivity</td>		
-    <td></td>
-	<td><a ref="https://www.iotivity.org/">https://www.iotivity.org/</a></td>
+    <td style="border:solid 1px">initiating</td>
+    <td style="border:solid 1px">Iotivity</td>		
+    <td style="border:solid 1px"></td>
+	<td style="border:solid 1px"><a ref="https://www.iotivity.org/">https://www.iotivity.org/</a></td>
   </tr>
   <tr>
-    <td>initiating</td>
-    <td>IoT-EPA</td>		
-    <td></td>
-	<td><a ref=""></a></td>
+    <td style="border:solid 1px">initiating</td>
+    <td style="border:solid 1px">IoT-EPA</td>		
+    <td style="border:solid 1px"></td>
+	<td style="border:solid 1px"><a ref=""></a></td>
   </tr>
   <tr style="background-color:#e6f2ff">
-    <td>initiating</td>
-    <td>WI-SUN Alliance (Field Area Network - FAN) </td>		
-    <td></td>
-	<td><a ref=""></a></td>
+    <td style="border:solid 1px">initiating</td>
+    <td style="border:solid 1px">WI-SUN Alliance (Field Area Network - FAN) </td>		
+    <td style="border:solid 1px"></td>
+	<td style="border:solid 1px"><a ref=""></a></td>
   </tr>
   <tr>
-    <td></td>
-    <td>other</td>		
-    <td></td>
-	<td><a ref=""></a></td>
+    <td style="border:solid 1px"></td>
+    <td style="border:solid 1px">other</td>		
+    <td style="border:solid 1px"></td>
+	<td style="border:solid 1px"><a ref=""></a></td>
   </tr>
-  
 </table>
 
 # Working Group Files
