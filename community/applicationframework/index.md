@@ -19,6 +19,8 @@ layout: page
   * Capture the Breadth of Applications in Cities (exhaustive list, dynamic in nature)
   * Provide a Framework to Measure Benefits that can be derived from these Applications (meeting the demand, better service delivery, need-based solutions, to drive behaviors in cities to accelerate innovation, enablers)
   * Identify Metrics to Assess the Readiness of Cities to Absorb these Applications (accessibility, interoperability, decision maker can evaluate performance)
+
+
 ### Guiding Principles
   * Framework/Metrics: Commonly Understandable and Flexible (adaptable)
   * Pilot Newly Developed Framework and Metrics in 5-6 Cities (diversity)
