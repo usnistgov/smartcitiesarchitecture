@@ -178,3 +178,11 @@
   md5: bca28269a4a30ad5c2b89bc99e19cfb5
   sha512: 43680c7c7605bbfdb40ac30dae3d4b949010e3e89208b6384d8edbaa51185f0ac4eb275b014deea01581cf75bc1b84a91520a7b18799ffe2f7b61a3f45a2db82
   team: consensusppi 
+
+- name: "NIST-IES-City-IntroductionToWG1-May6.pdf"
+  description: "Initial thoughts on each of three sub-workgroups for the Application Framework working group."
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/WorkingGroups/ApplicationFramework/NIST-IES-City-IntroductionToWG1-May6.pdf
+  md5: b831afbdc0e5ba80a64654f46af37f60
+  sha512: e832dc574654e067b9a660c1d2569ab8e53c72de038e6d078b8892af9d893aff918038d6fd40c3fe881956593e870b2648918606f44a348e9391ea4107b8eae0
+  team: applicationframework

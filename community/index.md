@@ -7,28 +7,42 @@ This activity builds on the work of two related NIST efforts – the [Global Cit
 
 It joins the efforts of collaborators in a set of activities designed to:
 
-### **Application Framework:** [Document the scope of smart city applications and metrics]({{ site.baseurl }}/community/applicationframework),
+### **Application Framework:** [Document the scope of smart city applications and metrics]({{ site.baseurl }}/community/applicationframework)
+
+  * **co-chairs** 
+Vatsal Bhatt, USGBC 
+Angelo Frascella, ENEA
+
 
   *  **Email List:** [mail to](mailto:scf_applicationframework@nist.gov) or [join](mailto:scf_applicationframework-join@nist.gov)
  
   *  **Workshop Webinars:** [https://global.gotomeeting.com/join/404083029](https://global.gotomeeting.com/join/404083029) phone:+1(408)650-3123;404083029#
 
-  *  **Meetings:** TBD
+  *  **Meetings:** May 24 and June 7 at 8am EDT/2pm CEST
 
   *  **GoogleDrive:** [folder](https://drive.google.com/open?id=0B8X_t7SvioZdbzdFOFdWcFg4VWM) 
 
 
-### **Consensus PPI:** [Determine “Pivotal Points of Interoperability” that multiple smart city technologies share in common]({{ site.baseurl }}/community/consensusppi) 
+### **Consensus PPI:** [Determine “Pivotal Points of Interoperability” that multiple smart city technologies share in common]({{ site.baseurl }}/community/consensusppi)
+ 
+  * **co-chairs** 
+Eric Simmon, NIST 
+Stefano De Panfilis, Engineering
+
  
   *	**Email List:** [mail to](mailto:scf_consenusppi@nist.gov) or [join](mailto:scf_consenusppi-join@nist.gov)
  
   *	**Workshop Webinars:** [https://global.gotomeeting.com/join/752972149](https://global.gotomeeting.com/join/752972149) phone:+1(312)757-3121;752972149#
 
-  *	**Meetings:**  Bi-weekly starting May 3, 2016 8:00A EDT
+  *	**Meetings:**  Bi-weekly starting May 3, 2016 8am EDT / 2pm CEST
 
   *  **GoogleDrive:** [folder](https://drive.google.com/open?id=0B8X_t7SvioZdM2VEOUdUMDV2Rnc)
 
-### **Deployed PPI:** [Discover and document actual smart city deployments which make use of two or more different technologies and are integrated using Pivotal Points of Interoperability]({{ site.baseurl }}/community/deployppi).
+### **Deployed PPI:** [Discover and document actual smart city deployments which make use of two or more different technologies and are integrated using Pivotal Points of Interoperability]({{ site.baseurl }}/community/deployppi)
+
+  * **co-chairs** 
+David Boswarthick, ETSI 
+Daniel Hoffman, Montgomery County Maryland 
 
   *	**Email List:** [mail to](mailto:scf_deployppi@nist.gov) or [join](mailto:scf_deployppi-join@nist.gov)
  
