@@ -9,7 +9,7 @@ layout: page
 
 **Workshop Webinars:** [https://global.gotomeeting.com/join/404083029](https://global.gotomeeting.com/join/404083029) phone:+1(408)650-3123;404083029#
 
-**Meetings:** TBD
+**Meetings:** May 24 and June 7 at 8am EDT/2pm CEST
 
 
 ## Charter
