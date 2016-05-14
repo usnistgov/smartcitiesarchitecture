@@ -5,6 +5,17 @@ layout: page
 
 # Events
 
+## June 13...16 GCTC Expo and IES-Cities Framework Midcourse Meeting
+
+IES-City Framework Workshop: June 15th,16th 2016 in conjunction with the [GCTC Expo](http://www.gctcexpo.org/index.html) 
+
+Registration: [Registration link](https://appam.certain.com/profile/form/index.cfm?PKformID=0x30667187c)
+
+Agenda: [view]({{ site.baseurl }}/events/midpointworkshop/)
+
+Location:  Austin Convention Center, Expo Hall 2 - 500 East Cesar Chavez Street - Austin, TX 78701 [directions](http://www.austinconventioncenter.com/directions/directions.htm)
+
+
 ## Kickoff Workshop Details
 
 [For details click here](kickoffworkshops)
@@ -14,10 +25,4 @@ The kick-off workshop for the initiative will take place at NIST’s Gaithersbur
 
 ### (COMPLETED) April 14-15, 2016 ENEA, Rome Italy
 A second workshop will be held April 14-15, 2016 in Rome, Italy, hosted by ENEA. Both workshops will have similar formats with in-depth presentations from experts engaged in activities in the different geographic regions. Interim results will be considered at subsequent workshops in summer 2016. The hope is to produce an initial draft document by September and to finalize it by June of next year.
-
-## June 13...16 GCTC Expo and IES-Cities Framework Midcourse Meeting
-Save the Date: June 15..16 will be day and a half IES-Cities Framework Meeting.
-
-<< details will be here soon >>
-
 
