@@ -74,37 +74,37 @@ The purpose of the Consensus PPI is to analyze:
   </tr>
   <tr>
     <td style="border:solid 1px">initiating</td>
-    <td style="border:solid 1px">oneM2M (Standards for M2M and the Internet of Things) Architecture</td>		
+    <td style="border:solid 1px">oneM2M (Standards for M2M and the Internet of Things) Architecture</td>
     <td style="border:solid 1px"></td>
 	<td style="border:solid 1px"><a ref="http://www.onem2m.org/technical/published-documents">http://www.onem2m.org/technical/published-documents</a></td>
   </tr>
   <tr style="background-color:#e6f2ff">
     <td style="border:solid 1px">initiating</td>
-    <td style="border:solid 1px">Open City Platform</td>		
+    <td style="border:solid 1px">Open City Platform</td>
     <td style="border:solid 1px"></td>
 	<td style="border:solid 1px"><a ref="http://www.opencityplatform.eu/">http://www.opencityplatform.eu/</a></td>
   </tr>
   <tr>
-    <td style="border:solid 1px">initiating</td>
-    <td style="border:solid 1px">The FIWARE Architecture for Smart Cities</td>		
-    <td style="border:solid 1px"></td>
+    <td style="border:solid 1px">in-progress</td>
+    <td style="border:solid 1px">The FIWARE Architecture for Smart Cities</td>
+    <td style="border:solid 1px">Stephano de Panafilis</td>
 	<td style="border:solid 1px"><a ref="http://fiware.org/">http://fiware.org/</a></td>
   </tr>
   <tr style="background-color:#e6f2ff">
     <td style="border:solid 1px">initiating</td>
-    <td style="border:solid 1px">City Protocol</td>		
+    <td style="border:solid 1px">City Protocol</td>
     <td style="border:solid 1px"></td>
 	<td style="border:solid 1px"><a ref="http://cityprotocol.org">http://cityprotocol.org</a></td>
   </tr>
   <tr>
     <td style="border:solid 1px">initiating</td>
-    <td style="border:solid 1px">The Open and Agile Smart Cities (OASC) Initiative</td>		
+    <td style="border:solid 1px">The Open and Agile Smart Cities (OASC) Initiative</td>
     <td style="border:solid 1px"></td>
 	<td style="border:solid 1px"><a ref="http://oascities.org/">http://oascities.org/</a></td>
   </tr>
   <tr style="background-color:#e6f2ff">
     <td style="border:solid 1px">initiating</td>
-    <td style="border:solid 1px">Qualcomm</td>		
+    <td style="border:solid 1px">Qualcomm</td>	
     <td style="border:solid 1px"></td>
 	<td style="border:solid 1px"><a ref="https://www.qualcomm.com/products/smart-cities">https://www.qualcomm.com/products/smart-cities</a></td>
   </tr>
@@ -116,43 +116,60 @@ The purpose of the Consensus PPI is to analyze:
   </tr>
   <tr style="background-color:#e6f2ff">
     <td style="border:solid 1px">initiating</td>
-    <td style="border:solid 1px">Industrial Internet Consortium (IIC)</td>		
+    <td style="border:solid 1px">Industrial Internet Consortium (IIC)</td>	
     <td style="border:solid 1px"></td>
 	<td style="border:solid 1px"><a ref="http://www.iiconsortium.org/">http://www.iiconsortium.org/</a></td>
   </tr>
   <tr>
     <td style="border:solid 1px">initiating</td>
-    <td style="border:solid 1px">Intel</td>		
+    <td style="border:solid 1px">Intel</td>	
     <td style="border:solid 1px"></td>
 	<td style="border:solid 1px"><a ref="www.intel.com/IoT">www.intel.com/IoT</a></td>
   </tr>
   <tr style="background-color:#e6f2ff">
     <td style="border:solid 1px">initiating</td>
-    <td style="border:solid 1px">Iotivity</td>		
+    <td style="border:solid 1px">Iotivity</td>	
     <td style="border:solid 1px"></td>
-	<td style="border:solid 1px"><a ref="https://www.iotivity.org/">https://www.iotivity.org/</a></td>
+	<td style="border:solid 1px"><a ref="http://www.iotivity.org/">http://www.iotivity.org/</a></td>
   </tr>
   <tr>
     <td style="border:solid 1px">initiating</td>
-    <td style="border:solid 1px">IoT-EPA</td>		
+    <td style="border:solid 1px">IoT-EPA</td>	
     <td style="border:solid 1px"></td>
 	<td style="border:solid 1px"><a ref=""></a></td>
   </tr>
   <tr style="background-color:#e6f2ff">
     <td style="border:solid 1px">initiating</td>
-    <td style="border:solid 1px">WI-SUN Alliance (Field Area Network - FAN) </td>		
+    <td style="border:solid 1px">WI-SUN Alliance (Field Area Network - FAN) </td>
     <td style="border:solid 1px"></td>
 	<td style="border:solid 1px"><a ref=""></a></td>
   </tr>
   <tr>
+    <td style="border:solid 1px">in-progress</td>
+    <td style="border:solid 1px">OPC UA</td>	
     <td style="border:solid 1px"></td>
-    <td style="border:solid 1px">other</td>		
+	<td style="border:solid 1px"><a ref="http://opcfoundation.org/about/opc-technologies/opc-ua/">http://opcfoundation.org/about/opc-technologies/opc-ua/</a></td>
+  </tr>
+  <tr>
+    <td style="border:solid 1px">in-progress</td>
+    <td style="border:solid 1px">OpenIOT</td>	
+    <td style="border:solid 1px">Arkady Zaslavsky</td>
+	<td style="border:solid 1px"><a ref="https://github.com/OpenIotOrg/openiot">https://github.com/OpenIotOrg/openiot</a></td>
+  </tr>
+  <tr>
+    <td style="border:solid 1px"></td>
+    <td style="border:solid 1px">other</td>	
     <td style="border:solid 1px"></td>
 	<td style="border:solid 1px"><a ref=""></a></td>
   </tr>
 </table>
 
-# Working Group Files
+## Links
+
+  *  **GoogleDrive:** [folder](https://drive.google.com/open?id=0B8X_t7SvioZdM2VEOUdUMDV2Rnc)
+
+
+## Working Group Files
 
 <dl>
 {% for document in site.data.documents %}
