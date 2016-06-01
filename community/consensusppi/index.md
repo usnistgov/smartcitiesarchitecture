@@ -168,6 +168,8 @@ The purpose of the Consensus PPI is to analyze:
 
   *  **GoogleDrive:** [folder](https://drive.google.com/open?id=0B8X_t7SvioZdM2VEOUdUMDV2Rnc)
 
+  *  **NIST CPS Framework V1.0:** [file](https://s3.amazonaws.com/nist-sgcps/cpspwg/files/pwgglobal/CPS_PWG_Draft_Framework_for_Cyber_Physical_Systems_Release_1_0Final.pdf)
+
 
 ## Working Group Files
 
