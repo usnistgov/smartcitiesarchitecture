@@ -36,8 +36,8 @@ The purpose of the Consensus PPI is to analyze:
 ## Deliverables
 
   * [06May] Refine scope on email list prior to May 3rd meeting (Stephano)
-  * [15May] Deliverable 1 – finalize CPS Framework Concerns for IES-City FW
-  * [06Jul] Deliverable 2 – draft analysis of several technology suites
+  * [15May] Deliverable 1 – finalize CPS Framework Concerns for IES-City FW (COMPLETE)
+  * [06Jul] Deliverable 2 – draft analysis of Fiware, OpenIOT, Onem2m, OPC UA technology suites
   * [30Sep] Analyzed PPIs version 0.8
 
 ## Major Milestones
@@ -56,39 +56,56 @@ The purpose of the Consensus PPI is to analyze:
 <table style="padding:4px;border-collapse: collapse;border:solid 4px;width:100%;font-family:Arial, Helvetica, sans-serif">
   <tr style="border:solid 2px;background-color:#b3d9ff;font-weight: bold">
     <td >Status (initiating, in-progress, completed)</td>
-    <td style="border:solid 1px">Technology</td>		
-    <td style="border:solid 1px">Contact</td>
+    <td style="border:solid 1px">Technology</td>	<td style="border:solid 1px">Contact</td>
 	<td style="border:solid 1px">Link</td>
   </tr>
   <tr>
-    <td style="border:solid 1px">initiating</td>
-    <td style="border:solid 1px">BSI (British Standards Institution) mapping smart city standards</td>		
-    <td style="border:solid 1px">Contact goes here</td>
-	<td style="border:solid 1px"><a href="http://www.bsigroup.com/en-GB/smart-cities/smart-cities-standards-mapping-research-and-modelling/">http://www.bsigroup.com/en-GB/smart-cities/smart-cities-standards-mapping-research-and-modelling/</a></td>
-  </tr>
-  <tr style="background-color:#e6f2ff">
-    <td style="border:solid 1px">initiating</td>
-    <td style="border:solid 1px">Internet of Things - Architecture (IoT-A)</td>		
-    <td style="border:solid 1px"></td>
-	<td style="border:solid 1px"><a ref="http://www.iot-a.eu/public/public-documents">http://www.iot-a.eu/public/public-documents</a></td>
+    <td style="border:solid 1px">in-progress</td>
+    <td style="border:solid 1px">OPC UA</td>	
+    <td style="border:solid 1px">John Gillerman</td>
+	<td style="border:solid 1px"><a ref="http://opcfoundation.org/about/opc-technologies/opc-ua/">http://opcfoundation.org/about/opc-technologies/opc-ua/</a></td>
   </tr>
   <tr>
-    <td style="border:solid 1px">initiating</td>
-    <td style="border:solid 1px">oneM2M (Standards for M2M and the Internet of Things) Architecture</td>
-    <td style="border:solid 1px"></td>
-	<td style="border:solid 1px"><a ref="http://www.onem2m.org/technical/published-documents">http://www.onem2m.org/technical/published-documents</a></td>
-  </tr>
-  <tr style="background-color:#e6f2ff">
-    <td style="border:solid 1px">initiating</td>
-    <td style="border:solid 1px">Open City Platform</td>
-    <td style="border:solid 1px"></td>
-	<td style="border:solid 1px"><a ref="http://www.opencityplatform.eu/">http://www.opencityplatform.eu/</a></td>
+    <td style="border:solid 1px">in-progress</td>
+    <td style="border:solid 1px">OpenIOT</td>	
+    <td style="border:solid 1px">Arkady Zaslavsky</td>
+	<td style="border:solid 1px"><a ref="https://github.com/OpenIotOrg/openiot">https://github.com/OpenIotOrg/openiot</a></td>
   </tr>
   <tr>
     <td style="border:solid 1px">in-progress</td>
     <td style="border:solid 1px">The FIWARE Architecture for Smart Cities</td>
     <td style="border:solid 1px">Stephano de Panafilis</td>
 	<td style="border:solid 1px"><a ref="http://fiware.org/">http://fiware.org/</a></td>
+  </tr>
+  <tr>
+    <td style="border:solid 1px">in-progress</td>
+    <td style="border:solid 1px">oneM2M (Standards for M2M and the Internet of Things) Architecture</td>
+    <td style="border:solid 1px"></td>
+	<td style="border:solid 1px"><a ref="http://www.onem2m.org/technical/published-documents">http://www.onem2m.org/technical/published-documents</a></td>
+  </tr>
+  <tr>
+    <td style="border:solid 1px">in-progress</td>
+    <td style="border:solid 1px">Connected Vehicle Reference Implementation Architecture</td>
+    <td style="border:solid 1px">David Binkley</td>
+	<td style="border:solid 1px"><a ref="http://www.iteris.com/cvria/">http://www.iteris.com/cvria/</a></td>
+  </tr>
+  <tr>
+    <td style="border:solid 1px">initiating</td>
+    <td style="border:solid 1px">BSI (British Standards Institution) mapping smart city standards</td>
+    <td style="border:solid 1px"></td>
+	<td style="border:solid 1px"><a href="http://www.bsigroup.com/en-GB/smart-cities/smart-cities-standards-mapping-research-and-modelling/">http://www.bsigroup.com/en-GB/smart-cities/smart-cities-standards-mapping-research-and-modelling/</a></td>
+  </tr>
+  <tr style="background-color:#e6f2ff">
+    <td style="border:solid 1px">initiating</td>
+    <td style="border:solid 1px">Internet of Things - Architecture (IoT-A)</td>
+    <td style="border:solid 1px"></td>
+	<td style="border:solid 1px"><a ref="http://www.iot-a.eu/public/public-documents">http://www.iot-a.eu/public/public-documents</a></td>
+  </tr>
+  <tr style="background-color:#e6f2ff">
+    <td style="border:solid 1px">initiating</td>
+    <td style="border:solid 1px">Open City Platform</td>
+    <td style="border:solid 1px"></td>
+	<td style="border:solid 1px"><a ref="http://www.opencityplatform.eu/">http://www.opencityplatform.eu/</a></td>
   </tr>
   <tr style="background-color:#e6f2ff">
     <td style="border:solid 1px">initiating</td>
@@ -116,7 +133,7 @@ The purpose of the Consensus PPI is to analyze:
   </tr>
   <tr style="background-color:#e6f2ff">
     <td style="border:solid 1px">initiating</td>
-    <td style="border:solid 1px">Industrial Internet Consortium (IIC)</td>	
+    <td style="border:solid 1px">Industrial Internet Consortium (IIC)</td>
     <td style="border:solid 1px"></td>
 	<td style="border:solid 1px"><a ref="http://www.iiconsortium.org/">http://www.iiconsortium.org/</a></td>
   </tr>
@@ -145,22 +162,10 @@ The purpose of the Consensus PPI is to analyze:
 	<td style="border:solid 1px"><a ref=""></a></td>
   </tr>
   <tr>
-    <td style="border:solid 1px">in-progress</td>
-    <td style="border:solid 1px">OPC UA</td>	
-    <td style="border:solid 1px"></td>
-	<td style="border:solid 1px"><a ref="http://opcfoundation.org/about/opc-technologies/opc-ua/">http://opcfoundation.org/about/opc-technologies/opc-ua/</a></td>
-  </tr>
-  <tr>
-    <td style="border:solid 1px">in-progress</td>
-    <td style="border:solid 1px">OpenIOT</td>	
-    <td style="border:solid 1px">Arkady Zaslavsky</td>
-	<td style="border:solid 1px"><a ref="https://github.com/OpenIotOrg/openiot">https://github.com/OpenIotOrg/openiot</a></td>
-  </tr>
-  <tr>
-    <td style="border:solid 1px"></td>
-    <td style="border:solid 1px">other</td>	
-    <td style="border:solid 1px"></td>
-	<td style="border:solid 1px"><a ref=""></a></td>
+    <td style="border:solid 1px">-</td>
+    <td style="border:solid 1px">-</td>	
+    <td style="border:solid 1px">-</td>
+	<td style="border:solid 1px"><a ref="">-</a></td>
   </tr>
 </table>
 
