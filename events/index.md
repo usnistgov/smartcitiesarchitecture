@@ -5,7 +5,7 @@ layout: page
 
 # Events
 
-## June 13...16 GCTC Expo and IES-Cities Framework Midcourse Meeting
+## June 13...16 GCTC Expo and IES-Cities Framework Midpoint Meeting
 
 IES-City Framework Workshop: June 15th,16th 2016 in conjunction with the [GCTC Expo](http://www.gctcexpo.org/index.html) 
 
@@ -14,6 +14,8 @@ Registration: [Registration link](https://appam.certain.com/profile/form/index.c
 Agenda: [view]({{ site.baseurl }}/events/midpointworkshop/)
 
 Location:  Austin Convention Center, Expo Hall 2 - 500 East Cesar Chavez Street - Austin, TX 78701 [directions](http://www.austinconventioncenter.com/directions/directions.htm)
+
+Our meetings will be on [Level 3 Meeting Rooms 4A - Application Framework,4B - Consensus PPI, & 4C Deployed PPI](http://www.austinconventioncenter.com/eventserv/images/Level_3.htm)
 
 
 ## Kickoff Workshop Details
