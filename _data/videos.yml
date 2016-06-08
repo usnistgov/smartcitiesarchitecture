@@ -22,3 +22,23 @@
   description: "James Aloisi, Shi-Wan Lin, Ramesh Peri, Stephano de Panfilis"
   embedded: "../assets/IES-CityFrameworkKickoffMeeting.png"
   type: mp4
+- name: "Morning session - part I"
+  url: "https://www.youtube.com/embed/xPh0UgPoXyc"
+  description: "ENEA IES-City Framework KickoffMeeting: Morning session - part I"
+  embedded: "../assets/IES-CityFrameworkKickoffMeeting.png"
+  type: youtube
+- name: "Morning session - part II"
+  url: "https://www.youtube.com/embed/Q1AyL-4mRgc"
+  description: "ENEA IES-City Framework KickoffMeeting: Morning session - part II"
+  embedded: "../assets/IES-CityFrameworkKickoffMeeting.png"
+  type: youtube
+- name: "Afternoon session - part I"
+  url: "https://www.youtube.com/embed/cSaqKxckWJk"
+  description: "ENEA IES-City Framework KickoffMeeting: Afternoon session - part I"
+  embedded: "../assets/IES-CityFrameworkKickoffMeeting.png"
+  type: youtube
+- name: "Afternoon session - part II"
+  url: "https://www.youtube.com/embed/hL-YXa7D9_4"
+  description: "ENEA IES-City Framework KickoffMeeting: Afternoon session - part II"
+  embedded: "../assets/IES-CityFrameworkKickoffMeeting.png"
+  type: youtube

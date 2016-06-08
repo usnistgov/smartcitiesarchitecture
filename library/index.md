@@ -73,7 +73,7 @@ layout: page
 
 <a id="video">&nbsp;</a>
 
-## Videos From NIST Workshop
+## Videos From NIST and ENEA Kickoff Workshops
 
 {% for video in site.data.videos %}
 <hr />
@@ -92,6 +92,13 @@ layout: page
 		Your browser does not support HTML5 video.
 	</video>
     {% endif %}
+
+    {% if video.type == 'youtube' %}
+	<iframe width="450" height="240" src="{{video.url}}">
+		Your browser does not support HTML5 video.
+	</iframe>
+    {% endif %}
+
 </dl>
 </div>
 {% endfor %}
