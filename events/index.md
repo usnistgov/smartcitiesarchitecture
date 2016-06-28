@@ -5,17 +5,13 @@ layout: page
 
 # Events
 
-## June 13...16 GCTC Expo and IES-Cities Framework Midpoint Meeting
+### (COMPLETED) June 13...16 GCTC Expo and IES-Cities Framework Midpoint Meeting
 
 IES-City Framework Workshop: June 15th,16th 2016 in conjunction with the [GCTC Expo](http://www.gctcexpo.org/index.html) 
 
-Registration: [Registration link](https://appam.certain.com/profile/form/index.cfm?PKformID=0x30667187c)
+We had a small but very successful workshop in Austin on June 15-16. This workshop was at the tail end of the GCTC Expo which was itself a huge success with over 2000 attendees and nearly 100 action cluster presentations made. GCTC provides the raw drive and scope of the smart city applications that inform our IES-City Framework effort. Our technical effort, of course on a much smaller scale, endeavors to help drive the smart city and IoT world toward harmonization and interoperability through mostly technical analysis.
 
-Agenda: [view]({{ site.baseurl }}/events/midpointworkshop/)
-
-Location:  Austin Convention Center, Expo Hall 2 - 500 East Cesar Chavez Street - Austin, TX 78701 [directions](http://www.austinconventioncenter.com/directions/directions.htm)
-
-Our meetings will be on [Level 3 Meeting Rooms 4A - Application Framework,4B - Consensus PPI, & 4C Deployed PPI](http://www.austinconventioncenter.com/eventserv/images/Level_3.htm)
+[For plenary presentation click here](https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/AustinMidpoint/MartyBurns_IES-CityFrameworkMidpoint_20160615_Final.pptx)
 
 
 ## Kickoff Workshop Details
