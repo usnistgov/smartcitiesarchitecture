@@ -16,7 +16,45 @@ layout: page
 
 ## Presentations
 
-### NIST Workshop
+
+### Austin Workshop June 15-16 2016
+
+<dl>
+{% for document in site.data.documents %}
+  {% if document.category == "presentation" %}
+  {% if document.team == "austinmidpoint" %}
+  
+  <dt>
+    <a href="{{document.url}}" >
+    {{document.name}} (Presentation)</a>
+  </dt>
+  <dd>{{document.description}}</dd>
+
+  {% endif %}
+  {% endif %}
+{% endfor %}
+</dl>
+
+### ENEA Workshop April 14-15 2016
+
+<dl>
+{% for document in site.data.documents %}
+  {% if document.category == "presentation" %}
+  {% if document.team == "smartcityframeworkkickoffworkshopenea" %}
+  
+  <dt>
+    <a href="{{document.url}}" >
+    {{document.name}} (Presentation)</a>
+  </dt>
+  <dd>{{document.description}}</dd>
+
+  {% endif %}
+  {% endif %}
+{% endfor %}
+</dl>
+
+
+### NIST Workshop March 24-25 2016
 
 <dl>
 {% for document in site.data.documents %}
@@ -34,23 +72,6 @@ layout: page
 {% endfor %}
 </dl>
 
-### ENEA Workshop
-
-<dl>
-{% for document in site.data.documents %}
-  {% if document.category == "presentation" %}
-  {% if document.team == "smartcityframeworkkickoffworkshopenea" %}
-  
-  <dt>
-    <a href="{{document.url}}" >
-    {{document.name}} (Presentation)</a>
-  </dt>
-  <dd>{{document.description}}</dd>
-
-  {% endif %}
-  {% endif %}
-{% endfor %}
-</dl>
 
 <a id="document">&nbsp;</a>
 

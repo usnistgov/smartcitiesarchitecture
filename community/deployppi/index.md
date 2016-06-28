@@ -50,3 +50,19 @@ The working group will deliver a series of case studies (unique and diverse in s
 * Begin formulation of initial report September
 * Develop report Sept – December
 
+
+## Working Group Files
+
+<dl>
+{% for document in site.data.documents %}
+  {% if document.team == "deployedppi" %}
+  
+  <dt>
+    <a href="{{document.url}}" >
+    {{document.name}} ({{document.category}})</a>
+  </dt>
+  <dd>{{document.description}}</dd>
+
+  {% endif %}
+{% endfor %}
+</dl>

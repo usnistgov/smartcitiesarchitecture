@@ -48,7 +48,7 @@ layout: page
   
   <dt>
     <a href="{{document.url}}" >
-    {{document.name}} (Presentation)</a>
+    {{document.name}} ({{document.category}})</a>
   </dt>
   <dd>{{document.description}}</dd>
 

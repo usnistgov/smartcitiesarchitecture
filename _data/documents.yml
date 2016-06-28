@@ -178,7 +178,6 @@
   md5: bca28269a4a30ad5c2b89bc99e19cfb5
   sha512: 43680c7c7605bbfdb40ac30dae3d4b949010e3e89208b6384d8edbaa51185f0ac4eb275b014deea01581cf75bc1b84a91520a7b18799ffe2f7b61a3f45a2db82
   team: consensusppi 
-
 - name: "NIST-IES-City-IntroductionToWG1-May6.pdf"
   description: "Initial thoughts on each of three sub-workgroups for the Application Framework working group."
   category: "document"
@@ -186,3 +185,38 @@
   md5: b831afbdc0e5ba80a64654f46af37f60
   sha512: e832dc574654e067b9a660c1d2569ab8e53c72de038e6d078b8892af9d893aff918038d6fd40c3fe881956593e870b2648918606f44a348e9391ea4107b8eae0
   team: applicationframework
+- name: "Plenary Sessions at Austin Midpoint Workshop"
+  description: "Plenary session slide deck with project overview and status of all working groups"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/AustinMidpoint/MartyBurns_IES-CityFrameworkMidpoint_20160615_Final.pptx
+  md5: 7937f9b4381a22527b8205d4d805e559
+  sha512: 2a5a6a88e56cd8b33f188638dff678c7ebb758802506e5ca98eface7125d06e8dbf015cc4d8667fa383c17a15beef9287fc598c875f032ceb90f502b00bf8d71
+  team: austinmidpoint
+- name: "Application Framework Status Austin Workshop"
+  description: "Status of the Application Working Group and subgroups at Austin midpoint workshop"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/WorkingGroups/ApplicationFramework/NIST-IES-City-WG1-3Subgroups-Jun15.pptx
+  md5: d34dc6749a47b5946821e94ef17b8fbd
+  sha512: 3af27cc0615280d24735e228860e9890712d02dbc4d4c3b1128f7c3ad381bf08ce25a0e264787c4cbe27a861e1c66873856088692cfbea6c1693464a6da98237
+  team: applicationframework
+- name: "Consensus PPI Status Austin Workshop"
+  description: "Status of the Consensus PPI Working Group at Austin midpoint workshop"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/WorkingGroups/ConsensusPPI/scf_consensus_update_plenary_201600615.pptx
+  md5: 9aae52db44381452cd2f4dcae419f3f7
+  sha512: b270e446d8e3db8c4e45f5fdb7d5d9f5ec81403fbdc863816042ff8f8d21f049d1f9dcc42551d668732536ba5868ca4427f1f369351150545a34a1b08a65c5d7
+  team: consensusppi
+- name: "Deployed PPI Status Austin Workshop"
+  description: "Status of the Deployed PPI Working Group at Austin midpoint workshop"
+  category: "presentation"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/WorkingGroups/DeployedPPI/Deployed_PPI_status_20160615.pptx
+  md5: 77d71fef989cc30f012cf90a683e7acf
+  sha512: 72d1eb7170e755663794df464b17279b91a70229b7649761ead111faf1538fd1b9e64677e5cbbfe5f5b395c80e77ead7d895d344a7f9495367a8b6c1065fb94e
+  team: deployedppi
+- name: "Draft interview questions"
+  description: "Smart City Interview questions draft 20160615"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/WorkingGroups/DeployedPPI/Smart_City_User_Interview_Questions_20160615-2.doc
+  md5: c80f72d7f74b74fc12aec5ccca8b081b
+  sha512: db254582b55254f4c1c8849f28d517c2b0104f00ab7dc06c90cef8f271826d25811d18bfc379220cce2d03ff9804fff43f01763648e72c672793e3b74f48e5dc
+  team: deployedppi

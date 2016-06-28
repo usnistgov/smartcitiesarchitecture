@@ -184,7 +184,7 @@ The purpose of the Consensus PPI is to analyze:
   
   <dt>
     <a href="{{document.url}}" >
-    {{document.name}} (Presentation)</a>
+    {{document.name}} ({{document.category}})</a>
   </dt>
   <dd>{{document.description}}</dd>
 
