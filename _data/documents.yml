@@ -220,3 +220,10 @@
   md5: c80f72d7f74b74fc12aec5ccca8b081b
   sha512: db254582b55254f4c1c8849f28d517c2b0104f00ab7dc06c90cef8f271826d25811d18bfc379220cce2d03ff9804fff43f01763648e72c672793e3b74f48e5dc
   team: deployedppi
+- name: "Draft Report Outline from Austin Workshop"
+  description: "This outline was drafted to house the IES-City Framework when completed in the fall"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ies-city_framework/IES-CityFrameworkReportOutline_20160616.docx
+  md5: 7650ceb27b16ffe4b3df078a1d24a636
+  sha512: cadc38b0efb27737d611e3e56453d58f7eaaa40e284dde1988b3d8b41dfe48129899ff03fcfaf4cf389283f992168e4be8ff57073f10b69d5cc88ec1f2a63d72
+  team: smartcityframework
