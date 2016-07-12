@@ -72,7 +72,6 @@
   md5: f1cdfa5b0b8b34d64debe06afefce03e
   sha512: 627df21232727b214b0b3a0a7cc5575563288795d8d2023206de95c8e7c4923933ae4533825f62fc468b7ee605ca18368714e774ff67d985599570015d559043
   team: smartcityframeworkkickoffworkshopnist
-  
 - name: "Allesandro Bassi, Bassi Consulting"
   description: "Allesandro Bassi, An Internet of Things - Architecture Primer"
   category: "presentation"
@@ -188,10 +187,10 @@
 - name: "Plenary Sessions at Austin Midpoint Workshop"
   description: "Plenary session slide deck with project overview and status of all working groups"
   category: "presentation"
-  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/AustinMidpoint/MartyBurns_IES-CityFrameworkMidpoint_20160615_Final.pptx
-  md5: 7937f9b4381a22527b8205d4d805e559
-  sha512: 2a5a6a88e56cd8b33f188638dff678c7ebb758802506e5ca98eface7125d06e8dbf015cc4d8667fa383c17a15beef9287fc598c875f032ceb90f502b00bf8d71
-  team: austinmidpoint
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/AustinMidpoint/MartyBurns_IES-CityFrameworkMidpoint_20160615_Final_v2.pptx
+  md5: e06027279c816f978effe73e01fcbac1
+  sha512: db74f2f690719b68a736f4cc3d69d630acf24bcee1f568a769587e4584e47e72b0e8d3a66e87c2f007e489b59e519b587d3e62d12a38fddc5a8955706a4ae8a1
+  team: austinmidpoint  
 - name: "Application Framework Status Austin Workshop"
   description: "Status of the Application Working Group and subgroups at Austin midpoint workshop"
   category: "presentation"
