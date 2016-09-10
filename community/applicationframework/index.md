@@ -32,13 +32,16 @@ layout: page
   * A List of Metrics to Assess the Readiness of Cities to Absorb Smart City Applications (accessibility, interoperability, decision maker can evaluate performance)
   * Outcomes of 5-6 City Pilots on Benefits Framework and Readiness Metrics
 
-## Major Milestones
+## Major Milestones -- Plan for Fall 2016
 
-  * Assimilate Smart City Application Frameworks – Jun 30, 2016
-  * A Framework to Measure Benefits – July 31, 2016
-  * A List of Metrics to Assess the Readiness of Cities – July 31, 2016
-  * Enrich WG-1 Content with Information from WGs 2 and 3 – August 31, 2016 
-  * Outcomes of 5-6 City Pilots – September 15, 2016
+1.       Discuss first draft of frameworks/metrics for each subgroup: September 22 [Each group leader presents the first draft of the metrics for her/his subgroup, asks for collaboration/feedback on it, share the document with the partners]
+2.         Identify a list of potential cities for pilot testing frameworks/metrics: September 22 (internal WG1 concall)
+3.       Feedback about the presented documents have to be sent within September 29 (by email)
+4.          Frameworks/metrics ready for all subgroups: October 6/ (external WG1 concall)
+5.         Share almost final draft of each subgroup sections on Oct 15 and discuss it during an Internal Concall 
+6.          October 16 for final status check and last edits
+7.          First Draft finalized: October 21 - to be ready for the face-to-face meeting in Washington DC on Oct 27
+8.         Pilot test Frameworks/Metrics with cities: Nov/Dec (guided interviews online or in person)
 
 # Working Group Files
 

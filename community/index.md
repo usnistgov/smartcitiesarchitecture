@@ -2,7 +2,9 @@
 title: Working Groups
 layout: page
 ---
-#Working Groups
+
+# Working Groups
+
 This activity builds on the work of two related NIST efforts – the [Global City Teams Challenge](https://www.us-ignite.org/globalcityteams/) that encourages “action clusters” to form and collaborate to demonstrate technologies at city scale, and, the [CPS Framework](http://www.nist.gov/el/nist-releases-draft-framework-cyber-physical-systems-developers.cfm ) which provides for a scientific underpinning of the description of the Internet of Things.
 
 It joins the efforts of collaborators in a set of activities designed to:
@@ -18,7 +20,7 @@ Angelo Frascella, ENEA
  
   *  **Workshop Webinars:** [https://global.gotomeeting.com/join/404083029](https://global.gotomeeting.com/join/404083029) phone:+1(408)650-3123;404083029#
 
-  *  **Meetings:** May 24 and June 7 at 8am EDT/2pm CEST
+  *  **Meetings:** September 22, October6, & October 15 at 8am EDT/2pm CEST
 
   *  **GoogleDrive:** [folder](https://drive.google.com/open?id=0B8X_t7SvioZdbzdFOFdWcFg4VWM) 
 
@@ -26,7 +28,7 @@ Angelo Frascella, ENEA
 ### **Consensus PPI:** [Determine “Pivotal Points of Interoperability” that multiple smart city technologies share in common]({{ site.baseurl }}/community/consensusppi)
  
   * **co-chairs** 
-Eric Simmon, NIST 
+Marty Burns, NIST 
 Stefano De Panfilis, Engineering
 
  
@@ -34,7 +36,7 @@ Stefano De Panfilis, Engineering
  
   *	**Workshop Webinars:** [https://global.gotomeeting.com/join/752972149](https://global.gotomeeting.com/join/752972149) phone:+1(312)757-3121;752972149#
 
-  *	**Meetings:**  Bi-weekly starting May 3, 2016 8am EDT / 2pm CEST
+  *	**Meetings:**  Bi-weekly every other tuesday, 2016 8am EDT / 2pm CEST -- next meeting 20 Sep
 
   *  **GoogleDrive:** [folder](https://drive.google.com/open?id=0B8X_t7SvioZdM2VEOUdUMDV2Rnc)
 
