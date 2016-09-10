@@ -20,7 +20,7 @@ Angelo Frascella, ENEA
  
   *  **Workshop Webinars:** [https://global.gotomeeting.com/join/404083029](https://global.gotomeeting.com/join/404083029) phone:+1(408)650-3123;404083029#
 
-  *  **Meetings:** September 22, October6, & October 15 at 8am EDT/2pm CEST
+  *  **Meetings:** September 22, October 10 at 8am EDT/2pm CEST
 
   *  **GoogleDrive:** [folder](https://drive.google.com/open?id=0B8X_t7SvioZdbzdFOFdWcFg4VWM) 
 
