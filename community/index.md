@@ -50,7 +50,7 @@ Daniel Hoffman, Montgomery County Maryland
  
   *	**Workshop Webinars:** [https://global.gotomeeting.com/join/494103221](https://global.gotomeeting.com/join/494103221) phone:+1(224)501-3212;494103221#
 	
-  *	**Meetings:** Next Meeting: October 3 9:30A EST
+  *	**Meetings:** Next Meeting: October 3 9:30A EDT
 
   *  **GoogleDrive:** [folder](https://drive.google.com/open?id=0B8X_t7SvioZdd2V0aDJhRFRmZ00)
 
