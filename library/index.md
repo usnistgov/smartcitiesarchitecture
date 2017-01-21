@@ -9,12 +9,29 @@ layout: page
 
 <p>The following documents are working documents of the IES-City Framework</p>
 
-<a href="#video">Videos</a> || <a href="#presentation">Presentations</a> || <a href="#document">Documents</a> 
+<a href="#video">Videos</a> || <a href="#presentation">Workshop Presentations</a> || <a href="#document">Documents</a> 
 <hr />
+
+
+## Framework Document Drafting
+<dl>
+{% for document in site.data.documents %}
+  {% if document.team == "smartcityframework" %}
+  
+  <dt>
+    <a href="{{document.url}}" >
+    {{document.name}} ({{document.category}})</a>
+  </dt>
+  <dd>{{document.description}}</dd>
+
+  {% endif %}
+{% endfor %}
+</dl>
+
 
 <a id="Presentation">&nbsp;</a>
 
-## Presentations
+## Workshop Presentations
 
 
 ### Austin Workshop June 15-16 2016
