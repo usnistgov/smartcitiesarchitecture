@@ -12,12 +12,20 @@
 #######################################
 # smartcityframework
 #######################################
+
 - name: "IoT-Enabled Smart City Framework White Paper"
   description: "Introductory white paper describing the IoT-Enabled Smart City Framework collaboration project"
   category: "document"
   url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/IoT-EnabledSmartCityFrameworkWP.pdf
-  md5: 64a6e0f7e008cf32582c2cc90bd800ee
-  sha512: 5a847db2ed8ed58747cfe51f0253fe7ff20d0de8593c21fde79653e246fcb57ccef660cfb6a114f8e731dd0f5b8bcefad61102a36656992e4680d58602360d5f
+  md5: 593100e6b4bf215c4d2e38ef52ce8379
+  sha512: 7b0a000cfe32e158c2c51ad80439a856a0495392016c40486de6066deed05bb35a9a71cf9418557d879850b90a9fde9e8793c7dc8a45579fd5a6b50e63b9e272
+  team: smartcityframework
+- name: "IES-City Framework Overview Slide Deck"
+  description: "Introductory slide deck describing the IES-City Framework collaboration project"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/IES-CityFrameworkOverviewSlides.pdf
+  md5: 9f7a0cbd25638d956e29cd1bb5efecc2
+  sha512: 250cd256c7a7cbe85782b7f9ae660880878c98e95ad2c725401ed0c91d691c7187da18506d2d04cce8bddcd218db2995f35da4fe5a2faefdc5be8a59407b7b37
   team: smartcityframework
 - name: "Draft Report Outline from Austin Workshop"
   description: "This outline was drafted to house the IES-City Framework when completed in the fall"
@@ -316,4 +324,3 @@
   sha512: 72d1eb7170e755663794df464b17279b91a70229b7649761ead111faf1538fd1b9e64677e5cbbfe5f5b395c80e77ead7d895d344a7f9495367a8b6c1065fb94e
   team: austinmidpoint
   
-
