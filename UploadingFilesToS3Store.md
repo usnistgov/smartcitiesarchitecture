@@ -17,8 +17,8 @@ b.	Add these to the path using Control Panel: System: Advanced System Settings: 
     C:\Python27\Scripts\pip install boto
 
 1. Add a template for credentials in %USERPROFILE%\.aws
-a.	Add a ì.awsî sub-directory under C:\Users\USERNAME using command prompt ìmkdir .awsî from >C:\Users\USERNAME 
-b.	Use Notepad++ to create a file (with contents below, 5 lines, which serves as the template for credentials) and save as ìcredentials.î
+a.	Add a ‚Äú.aws‚Äù sub-directory under C:\Users\USERNAME using command prompt ‚Äúmkdir .aws‚Äù from >C:\Users\USERNAME 
+b.	Use Notepad++ to create a file (with contents below, 5 lines, which serves as the template for credentials) and save as ‚Äúcredentials.‚Äù
 
 
 Contents of %USERPROFILE%\.aws\credentials. file:
@@ -55,4 +55,5 @@ Contents of %USERPROFILE%\.aws\credentials. file:
 
 1. When presented with the yml code, if acceptable, answer Y and file will be copied to aws and the _data/documents.yml file will be appended with the record.
 1. When done, commit and check in changed documents.yml file
+
  
