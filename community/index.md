@@ -20,7 +20,7 @@ Angelo Frascella, ENEA
  
   *  **Workshop Webinars:** [https://global.gotomeeting.com/join/404083029](https://global.gotomeeting.com/join/404083029) phone:+1(408)650-3123;404083029#
 
-  *  **Meetings:** every third thursday 5/11, 6/1, 6/22  at 10am EST/2pm CEST
+  *  **Meetings:** every third thursday 9/14, 10/5, 10/26  at 10am EST/2pm CEST
 
   *  **GoogleDrive:** [folder](https://drive.google.com/open?id=0B8X_t7SvioZdbzdFOFdWcFg4VWM) 
 
@@ -36,7 +36,7 @@ Stefano De Panfilis, Engineering
  
   *	**Workshop Webinars:** [https://global.gotomeeting.com/join/752972149](https://global.gotomeeting.com/join/752972149) phone:+1(312)757-3121;752972149#
 
-  *	**Meetings:**  every third tuesday 5/2, 5/23, 6/13 , 9am EST / 2pm CEST
+  *	**Meetings:**  every third tuesday 9/5, 9/26, 10/17 , 9am EST / 2pm CEST
 
   *  **GoogleDrive:** [folder](https://drive.google.com/open?id=0B8X_t7SvioZdM2VEOUdUMDV2Rnc)
 
@@ -50,7 +50,7 @@ Daniel Hoffman, Montgomery County Maryland
  
   *	**Workshop Webinars:** [https://global.gotomeeting.com/join/494103221](https://global.gotomeeting.com/join/494103221) phone:+1(224)501-3212;494103221#
 	
-  *  **Meetings:** every third thursday 5/4, 5/25, 6/15  at 9am EST/2pm CEST
+  *  **Meetings:** every third thursday 9/7, 9/28, 10/19  at 9am EST/2pm CEST
 
   *  **GoogleDrive:** [folder](https://drive.google.com/open?id=0B8X_t7SvioZdd2V0aDJhRFRmZ00)
 
