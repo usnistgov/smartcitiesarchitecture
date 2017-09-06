@@ -10,7 +10,7 @@ layout: page
 
 **Workshop Webinars:** [https://global.gotomeeting.com/join/752972149](https://global.gotomeeting.com/join/752972149) phone:+1(312)757-3121;752972149#
 
-**Meetings:** Bi-weekly starting May 3, 2016 8:00A EDT
+**Meetings:** Tri-weekly 9:00A EDT
 
 **Page Contents:**
 
@@ -35,21 +35,19 @@ The purpose of the Consensus PPI is to analyze:
 
 ## Deliverables
 
-  * [06May] Refine scope on email list prior to May 3rd meeting (Stephano)
-  * [15May] Deliverable 1 – finalize CPS Framework Concerns for IES-City FW (COMPLETE)
-  * [06Jul] Deliverable 2 – draft analysis of Fiware, OpenIOT, Onem2m, OPC UA technology suites
-  * [30Sep] Analyzed PPIs version 0.8
+  * Set of analyzed suites according to CPSFramework Aspects/Concerns spreadsheet
+  * Description of Methodology
+  * Text for the IES-City Framework Document section on Consensus PPI
 
 ## Major Milestones
 
-  * End of April to collect Architectures and Experts
-  * First teleconference (Organizational overview, request for experts) May 3rd 8:00am, then every other Tuesday (same time)
-  * Second teleconference (Review of CPSPWG and list of Concerns) May 17th 8:00am
-  * June 15-16 Austin, TX USA F2F Workshop
-  * Early July: 1st pass analysis complete
-  * July onward -> combine output with other groups
+  * [October 2017] Complete analyses
+  * [November 2017] Complete draft Text
+  * [November/December 2017] Participate in IES-City Framework version 0.7 Workshop introduction
+  * [December 2017-February 2018] Review Comments
+  * [February 2017] Publish IES-City Framework version 1.0
 
-## Draft Initial List of Technologies To Be Analyzed
+## List of Technologies Being Analyzed
 
 *Note: this activity will not judge the merits or comparative benefits of any technology. It seeks only to research the potential common Pivotal Points of Interoperability (PPI) that they have in common. Therefore there is a mix of standards, specifications, and commercial suites and ecosystems in the analysis. Analysis by any proponent is purely voluntary. This list will vary during the progress of the project.*
 
@@ -57,13 +55,7 @@ The purpose of the Consensus PPI is to analyze:
   <tr style="border:solid 2px;background-color:#b3d9ff;font-weight: bold">
     <td >Status (initiating, in-progress, completed)</td>
     <td style="border:solid 1px">Technology</td>	<td style="border:solid 1px">Contact</td>
-	<td style="border:solid 1px">Link</td>
-  </tr>
-  <tr>
-    <td style="border:solid 1px">in-progress</td>
-    <td style="border:solid 1px">OPC UA</td>	
-    <td style="border:solid 1px">John Gillerman</td>
-	<td style="border:solid 1px"><a ref="http://opcfoundation.org/about/opc-technologies/opc-ua/">http://opcfoundation.org/about/opc-technologies/opc-ua/</a></td>
+    <td style="border:solid 1px">Link</td>
   </tr>
   <tr>
     <td style="border:solid 1px">in-progress</td>
@@ -75,106 +67,33 @@ The purpose of the Consensus PPI is to analyze:
     <td style="border:solid 1px">in-progress</td>
     <td style="border:solid 1px">The FIWARE Architecture for Smart Cities</td>
     <td style="border:solid 1px">Stephano de Panafilis</td>
-	<td style="border:solid 1px"><a ref="http://fiware.org/">http://fiware.org/</a></td>
+    <td style="border:solid 1px"><a ref="http://fiware.org/">http://fiware.org/</a></td>
   </tr>
   <tr>
     <td style="border:solid 1px">in-progress</td>
     <td style="border:solid 1px">oneM2M (Standards for M2M and the Internet of Things) Architecture</td>
-    <td style="border:solid 1px"></td>
-	<td style="border:solid 1px"><a ref="http://www.onem2m.org/technical/published-documents">http://www.onem2m.org/technical/published-documents</a></td>
+    <td style="border:solid 1px">SeungMyeong Jeong</td>
+    <td style="border:solid 1px"><a ref="http://www.onem2m.org/technical/published-documents">http://www.onem2m.org/technical/published-documents</a></td>
   </tr>
   <tr>
     <td style="border:solid 1px">in-progress</td>
     <td style="border:solid 1px">Connected Vehicle Reference Implementation Architecture</td>
     <td style="border:solid 1px">David Binkley</td>
-	<td style="border:solid 1px"><a ref="http://www.iteris.com/cvria/">http://www.iteris.com/cvria/</a></td>
+    <td style="border:solid 1px"><a ref="http://www.iteris.com/cvria/">http://www.iteris.com/cvria/</a></td>
   </tr>
   <tr>
-    <td style="border:solid 1px">initiating</td>
-    <td style="border:solid 1px">BSI (British Standards Institution) mapping smart city standards</td>
-    <td style="border:solid 1px"></td>
-	<td style="border:solid 1px"><a href="http://www.bsigroup.com/en-GB/smart-cities/smart-cities-standards-mapping-research-and-modelling/">http://www.bsigroup.com/en-GB/smart-cities/smart-cities-standards-mapping-research-and-modelling/</a></td>
-  </tr>
-  <tr style="background-color:#e6f2ff">
-    <td style="border:solid 1px">initiating</td>
-    <td style="border:solid 1px">Internet of Things - Architecture (IoT-A)</td>
-    <td style="border:solid 1px"></td>
-	<td style="border:solid 1px"><a ref="http://www.iot-a.eu/public/public-documents">http://www.iot-a.eu/public/public-documents</a></td>
-  </tr>
-  <tr style="background-color:#e6f2ff">
-    <td style="border:solid 1px">initiating</td>
-    <td style="border:solid 1px">Open City Platform</td>
-    <td style="border:solid 1px"></td>
-	<td style="border:solid 1px"><a ref="http://www.opencityplatform.eu/">http://www.opencityplatform.eu/</a></td>
-  </tr>
-  <tr style="background-color:#e6f2ff">
-    <td style="border:solid 1px">initiating</td>
-    <td style="border:solid 1px">City Protocol</td>
-    <td style="border:solid 1px"></td>
-	<td style="border:solid 1px"><a ref="http://cityprotocol.org">http://cityprotocol.org</a></td>
-  </tr>
-  <tr>
-    <td style="border:solid 1px">initiating</td>
-    <td style="border:solid 1px">The Open and Agile Smart Cities (OASC) Initiative</td>
-    <td style="border:solid 1px"></td>
-	<td style="border:solid 1px"><a ref="http://oascities.org/">http://oascities.org/</a></td>
-  </tr>
-  <tr style="background-color:#e6f2ff">
-    <td style="border:solid 1px">initiating</td>
-    <td style="border:solid 1px">Qualcomm</td>	
-    <td style="border:solid 1px"></td>
-	<td style="border:solid 1px"><a ref="https://www.qualcomm.com/products/smart-cities">https://www.qualcomm.com/products/smart-cities</a></td>
-  </tr>
-  <tr>
-    <td style="border:solid 1px">initiating</td>
-    <td style="border:solid 1px">IBM</td>		
-    <td style="border:solid 1px"></td>
-	<td style="border:solid 1px"><a ref="http://www.ibm.com/smarterplanet/us/en/smarter_cities/overview/">http://www.ibm.com/smarterplanet/us/en/smarter_cities/overview/</a></td>
-  </tr>
-  <tr style="background-color:#e6f2ff">
-    <td style="border:solid 1px">initiating</td>
-    <td style="border:solid 1px">Industrial Internet Consortium (IIC)</td>
-    <td style="border:solid 1px"></td>
-	<td style="border:solid 1px"><a ref="http://www.iiconsortium.org/">http://www.iiconsortium.org/</a></td>
-  </tr>
-  <tr>
-    <td style="border:solid 1px">initiating</td>
-    <td style="border:solid 1px">Intel</td>	
-    <td style="border:solid 1px"></td>
-	<td style="border:solid 1px"><a ref="www.intel.com/IoT">www.intel.com/IoT</a></td>
-  </tr>
-  <tr style="background-color:#e6f2ff">
-    <td style="border:solid 1px">initiating</td>
-    <td style="border:solid 1px">Iotivity</td>	
-    <td style="border:solid 1px"></td>
-	<td style="border:solid 1px"><a ref="http://www.iotivity.org/">http://www.iotivity.org/</a></td>
-  </tr>
-  <tr>
-    <td style="border:solid 1px">initiating</td>
-    <td style="border:solid 1px">IoT-EPA</td>	
-    <td style="border:solid 1px"></td>
-	<td style="border:solid 1px"><a ref=""></a></td>
-  </tr>
-  <tr style="background-color:#e6f2ff">
-    <td style="border:solid 1px">initiating</td>
-    <td style="border:solid 1px">WI-SUN Alliance (Field Area Network - FAN) </td>
-    <td style="border:solid 1px"></td>
-	<td style="border:solid 1px"><a ref=""></a></td>
+    <td style="border:solid 1px">in-progress</td>
+    <td style="border:solid 1px">E015 Digital Ecosystem</td>
+    <td style="border:solid 1px">Emiliano Sergio Verga</td>
+    <td style="border:solid 1px"><a ref="http://www.e015.regione.lombardia.it/PE015/">http://www.e015.regione.lombardia.it/PE015/</a></td>
   </tr>
   <tr>
     <td style="border:solid 1px">-</td>
     <td style="border:solid 1px">-</td>	
     <td style="border:solid 1px">-</td>
-	<td style="border:solid 1px"><a ref="">-</a></td>
+    <td style="border:solid 1px"><a ref="">-</a></td>
   </tr>
 </table>
-
-## Links
-
-  *  **GoogleDrive:** [folder](https://drive.google.com/open?id=0B8X_t7SvioZdM2VEOUdUMDV2Rnc)
-
-  *  **NIST CPS Framework V1.0:** [file](https://s3.amazonaws.com/nist-sgcps/cpspwg/files/pwgglobal/CPS_PWG_Draft_Framework_for_Cyber_Physical_Systems_Release_1_0Final.pdf)
-
 
 ## Working Group Files
 
