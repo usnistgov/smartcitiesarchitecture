@@ -5,6 +5,25 @@ layout: page
 
 # Events
 
+### (COMPLETED) February 8th IES-Cities Framework Draft Release Workshop
+
+IES-City Framework Workshop: February 8th 2018 in conjunction with the [GCTC Expo](https://pages.nist.gov/GCTC/event/gctc-kickoff-2018/) 
+
+The challenge is that we have labored long at developing our concepts and deliverables and in the coming months we must collate that work and mature our draft IES-City Framework for release. The great event is that we have arranged to have wonderful workshop here in the United States in Washington DC in conjunction with the 2018 Global City Team’s Challenge kickoff meeting. At this workshop, we will present our work.
+
+We are inviting all interested parties to attend the February 6&7 GCTC kickoff followed by our IES-City Framework presentations on February 8.
+
+The working groups will be working to complete this draft over the next few months to meet the February 8th date. At that time, we will present these results in a one day session which will conclude with the start of a formal review period where we will ask the broader smart city community to comment on the draft.
+
+*  Feb 6-7, 2018 GCTC Smart and Secure Cities and Communities Challenge (GCTC-SC3)
+*  Feb 8, 2018 Internet of Things Smart City Framework (IES-City Framework)
+*  Where: FHI 360 Conference Center in Washington DC. (1825 Connecticut Ave NW, Washington, DC 20009, USA)
+*  Registration: Free registration for GCTC-SC3 kickoff and IES-City Workshop is (CLOSED)
+*  Agenda: See agenda for all three days (IES-City on third day) [here](https://pages.nist.gov/GCTC/event/gctc-kickoff-2018/agenda/)
+
+[For plenary presentation click here](https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/DraftRelease/MartyBurns_IES-CityFrameworkMidpoint_20160615_Final.pptx)
+
+
 ### (COMPLETED) June 13...16 GCTC Expo and IES-Cities Framework Midpoint Meeting
 
 IES-City Framework Workshop: June 15th,16th 2016 in conjunction with the [GCTC Expo](http://www.gctcexpo.org/index.html) 
