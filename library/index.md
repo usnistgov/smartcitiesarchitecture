@@ -16,7 +16,7 @@ layout: page
 ## Framework Document Drafting
 <dl>
 {% for document in site.data.documents %}
-  {% if document.team == "smartcityframework" %}
+  {% if document.team == "iescityframeworkdraft" %}
   
   <dt>
     <a href="{{document.url}}" >
@@ -92,17 +92,19 @@ layout: page
 
 <a id="document">&nbsp;</a>
 
-## Documents
+## Other Documents
 <dl>
 {% for document in site.data.documents %}
 
   {% if document.category == "document" %}
+  {% if document.team == "other" %}
   <dt>
     <a href="{{document.url}}" >
     {{document.name}} (Document)</a>
   </dt>
   <dd>{{document.description}}</dd>
 
+{% endif %}
 {% endif %}
 {% endfor %}
 </dl>

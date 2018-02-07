@@ -21,7 +21,6 @@ The working groups will be working to complete this draft over the next few mont
 *  Registration: Free registration for GCTC-SC3 kickoff and IES-City Workshop is (CLOSED)
 *  Agenda: See agenda for all three days (IES-City on third day) [here](https://pages.nist.gov/GCTC/event/gctc-kickoff-2018/agenda/)
 
-[For plenary presentation click here](https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/DraftRelease/MartyBurns_IES-CityFrameworkMidpoint_20160615_Final.pptx)
 
 
 ### (COMPLETED) June 13...16 GCTC Expo and IES-Cities Framework Midpoint Meeting

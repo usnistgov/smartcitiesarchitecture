@@ -9,31 +9,105 @@
 #   team: NistPagesTemplate Team id -- NistPagesTemplate for all
 #   featured: true (if item should be featured)
 
-#######################################
-# smartcityframework
-#######################################
 
+#######################################
+# IES-City Framework Draft for Review
+#######################################
+- name: "IES-City Framework Draft for Review"
+  description: "IES-City Framework Draft for Review"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ies-city_framework/IES-CityFrameworkdraft_20180207.pdf
+  md5: 4c7d3bb96ba7046c919fad1de64663b3
+  sha512: 8208fc138eb26627a81598037e7567afb2000ab5f195a6e5f4c407349f377391b32268edd2eedcae6b2e8b2546d6d2529bec548cd6418324d6c6ce2887bd4c03
+  team: iescityframeworkdraft
+- name: "IES-City Framework Application Framework Tool"
+  description: "IES-City Framework Application Framework Tool"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ies-city_framework/TechnicalArtifacts/IES-CityApplicationFrameworkTool.xlsm
+  md5: 1e935d6b4b8d4a098d0350e3956b4f2a
+  sha512: 9ecf4ca71f42e8e9d21e1ed2af59761a26f990d0d098c3fd3e10856b700cb4f1021d12581be30a956ebe42a2411a9d26e736b1c03f78241089ab074d42062df2
+  team: iescityframeworkdraft
+- name: "IES-City Framework ConsensusPPI Analysis Template"
+  description: "IES-City Framework ConsensusPPI Analysis Template"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ies-city_framework/TechnicalArtifacts/ConsensusPPIAnalysis_template.xlsm
+  md5: 1e609bb46f69ca5cf1b9670c1b991c9f
+  sha512: f34f5e658bab0def9b63750a674df0b0a4a05a88b4950933ddfbb0ccdead930047925fd9030d95a08fc49a4624db0947a111178817c757da8c5ee85d9b5aad51
+  team: iescityframeworkdraft
+- name: "IES-City Framework ConsensusPPIAnalysis_Comparison"
+  description: "IES-City Framework ConsensusPPI Analysis Comparison"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ies-city_framework/TechnicalArtifacts/ConsensusPPIAnalysis_Comparison.xlsm
+  md5: b7fa08f6afefd2188216eb85da26c4be
+  sha512: e5a88d4b4f59090bf43c38376c5bf167690540105df4a7999a39e8ab339de374c56114a5320996adb3aa44eb74f3cb3e5cefb257d029a5bc4225da613d2e38b7
+  team: iescityframeworkdraft
+- name: "IES-City Framework ConsensusPPI Analysis: AWS"
+  description: "IES-City Framework ConsensusPPI Analysis: AWS"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ies-city_framework/TechnicalArtifacts/ConsensusPPIAnalysis_aws.xlsm
+  md5: a4195a45e64fe05c12ade1158c97e3ba
+  sha512: e32f3144f85da0f2a5ca7a657ee6ed49cac5a6400f5e488b59cbd7db509d9557fb5efd90c7fcb5a52e62bc34876717fa171b2821141eea07146aeea9e71db402
+  team: iescityframeworkdraft
+- name: "IES-City Framework ConsensusPPI Analysis: CVRIA"
+  description: "IES-City Framework ConsensusPPI Analysis: CVRIA"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ies-city_framework/TechnicalArtifacts/ConsensusPPIAnalysis_CVRIA.xlsm
+  md5: 00bf34aeb87e9316f20f74a884007a43
+  sha512: 19cfce993c47f881ceef586a9d0e4c18d9dd41de8f24d627874cb5069bb445f1073de242a9295a622b9b6ccd16da92aa35bb05dd47608d967e5541688c2026c8
+  team: iescityframeworkdraft
+- name: "IES-City Framework ConsensusPPI Analysis: E015"
+  description: "IES-City Framework ConsensusPPI Analysis: E015"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ies-city_framework/TechnicalArtifacts/ConsensusPPIAnalysis_E015.xlsm
+  md5: 47baf90dca5935dd8c3150d7697d08e6
+  sha512: 93d6f28caf09e623c9bfbd2cc8e32ec8df5601c243faa7b4c3c6316ee4be5980eddcdefc32b6495c34507c21d8813088d9f786702ae348acb0485006813be361
+  team: iescityframeworkdraft
+- name: "IES-City Framework ConsensusPPI Analysis: FIWARE"
+  description: "IES-City Framework ConsensusPPI Analysis: FIWARE"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ies-city_framework/TechnicalArtifacts/ConsensusPPIAnalysis_FIWARE.xlsm
+  md5: d5a675be5a077989e565c3aa277f2f0b
+  sha512: 26d31fd1060c670c82ed052e3900f9661859ae51417267898228317682bbac6a1703bec0ff7668eea23425da5f25f4a90910b17ecf23b424a2ee19d09ed01218
+  team: iescityframeworkdraft
+- name: "IES-City Framework ConsensusPPI Analysis: oneM2M"
+  description: "IES-City Framework ConsensusPPI Analysis: oneM2M"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ies-city_framework/TechnicalArtifacts/ConsensusPPIAnalysis_oneM2M.xlsm
+  md5: ab1f763ccf1a605451a21e8c4270175c
+  sha512: 5bd607e78376cf302d91b9699904de0591b945c3db677680e2154f493468536f420cf50a1030481b7d86b7bd7df583abc27393f4493977e62abd7157b2f5cb33
+  team: iescityframeworkdraft
+- name: "IES-City Framework ConsensusPPI Analysis: OpenIoT"
+  description: "IES-City Framework ConsensusPPI Analysis: OpenIoT"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ies-city_framework/TechnicalArtifacts/ConsensusPPIAnalysis_OpenIoT.xlsm
+  md5: 88927891c79781c2572c853b7c4b8ba7
+  sha512: 972db41e4f37d6a60bf567cccd83500e6e864358b0aba359e5eabed6cf5ceb9b39c5e13e5cd63fac8b108089a430328d8acaddf16e4a7f2a0913913b63d897b3
+  team: iescityframeworkdraft
+  
+#######################################
+# smartcityframework old draft
+#######################################
 - name: "IoT-Enabled Smart City Framework White Paper"
   description: "Introductory white paper describing the IoT-Enabled Smart City Framework collaboration project"
   category: "document"
   url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/IoT-EnabledSmartCityFrameworkWP.pdf
   md5: 593100e6b4bf215c4d2e38ef52ce8379
   sha512: 7b0a000cfe32e158c2c51ad80439a856a0495392016c40486de6066deed05bb35a9a71cf9418557d879850b90a9fde9e8793c7dc8a45579fd5a6b50e63b9e272
-  team: smartcityframework
+  team: smartcityframeworkold
 - name: "IES-City Framework Overview Slide Deck"
   description: "Introductory slide deck describing the IES-City Framework collaboration project"
   category: "document"
   url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/IES-CityFrameworkOverviewSlides.pdf
   md5: 9f7a0cbd25638d956e29cd1bb5efecc2
   sha512: 250cd256c7a7cbe85782b7f9ae660880878c98e95ad2c725401ed0c91d691c7187da18506d2d04cce8bddcd218db2995f35da4fe5a2faefdc5be8a59407b7b37
-  team: smartcityframework
+  team: smartcityframeworkold
 - name: "Draft Report Outline from Austin Workshop"
   description: "This outline was drafted to house the IES-City Framework when completed in the fall"
   category: "document"
   url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ies-city_framework/IES-CityFrameworkReportOutline_20160616.docx
   md5: 7650ceb27b16ffe4b3df078a1d24a636
   sha512: cadc38b0efb27737d611e3e56453d58f7eaaa40e284dde1988b3d8b41dfe48129899ff03fcfaf4cf389283f992168e4be8ff57073f10b69d5cc88ec1f2a63d72
-  team: smartcityframework
+  team: smartcityframeworkold
 
 - name: "Framework Draft"
   description: "Draft in progress for IES-City Framework"
@@ -41,63 +115,63 @@
   url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/ies-city_framework/IES-CityFrameworkdraft.docx
   md5: d662fcbd673a46dbc95e8af4eb187769
   sha512: 99c89f5d222e1eed52ed13d9561fbb6b9b5a2cb8984855ad79469be3fff529332dff51b55df2544d51e00cad0dce62522a2f66998ede8cdfb5fc9b4ed3ac28b1
-  team: smartcityframework
+  team: smartcityframeworkold
 - name: "Application Framework Breadth Assessment Tool"
   description: "Draft of Application Framework Breadth Assessment Tool"
   category: "document"
   url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/ies-city_framework/TechnicalArtifacts/ApplicationFramework_BreadthAssessmentTool.xlsm
   md5: e810dd4967811456e23cc50e31b5982a
   sha512: 4c5387a9fda766d04ffec94101a3b530845f856f29926b2b5b7c40d89f4677eee7a8a6af70ef788833c661fab8ead43328e031644c70fda9c2b66e195d12ed91
-  team: smartcityframework
+  team: smartcityframeworkold
 - name: "Consensus PPI Analysis Comparison"
   description: "Draft of ConsensusPPI Comparison"
   category: "document"
   url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/ies-city_framework/TechnicalArtifacts/ConsensuPPIAnalysis_Comparison.xlsm
   md5: 73515668c08dffabf89117fe31b8496f
   sha512: d17e01695945ad8f767a8a061ff722ee53ccd766fc525ca884cf05aa45304173e532105a35c2f75660f0ffdcc6d52f97fb9e32b43d80c7cc3b548ef49adc3fb5
-  team: smartcityframework
+  team: smartcityframeworkold
 - name: "Consensus PPI Analysis CVRIA"
   description: "Draft of ConsensusPPI CVRIA Analysis"
   category: "document"
   url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/ies-city_framework/TechnicalArtifacts/ConsensuPPIAnalysis_CVRIA.xlsm
   md5: dae4f794d3e72ef6f75d1d9337cb6515
   sha512: 27838bc7a86ea4dea0a5f3ce903563dde342a48bc1b36a0384e399b4294065ad3afcca11aa11419e99609e96628fbc641be742b79de29969b26627350d39a8ba
-  team: smartcityframework
+  team: smartcityframeworkold
 - name: "Consensus PPI Analysis FIWARE"
   description: "Draft of ConsensusPPI FIWARE Analysis"
   category: "document"
   url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/ies-city_framework/TechnicalArtifacts/ConsensuPPIAnalysis_FIWARE.xlsm
   md5: 86cdc6f31fb189f078847011bb6c0822
   sha512: 73a9ed39d8dd6736076df92170959d3cfb23fbf149ec64425973ddc15b8a9c5c66e368ae5d652e72a53e59de29bab715cc704bf88fa5a114ea419b27c5934c13
-  team: smartcityframework
+  team: smartcityframeworkold
 - name: "Consensus PPI Analysis oneM2M"
   description: "Draft of ConsensusPPI oneM2M Analysis"
   category: "document"
   url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/ies-city_framework/TechnicalArtifacts/ConsensuPPIAnalysis_oneM2M.xlsm
   md5: ab1f763ccf1a605451a21e8c4270175c
   sha512: 5bd607e78376cf302d91b9699904de0591b945c3db677680e2154f493468536f420cf50a1030481b7d86b7bd7df583abc27393f4493977e62abd7157b2f5cb33
-  team: smartcityframework
+  team: smartcityframeworkold
 - name: "Consensus PPI Analysis OpenIoT"
   description: "Draft of ConsensusPPI OpenIoT Analysis"
   category: "document"
   url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/ies-city_framework/TechnicalArtifacts/ConsensuPPIAnalysis_OpenIoT.xlsm
   md5: 4ef2935b45c5bc94f4f1070cf5b1dbfb
   sha512: b863ccd88072cfcab310e34bfb1faffe545684db2095faeb29037c438486843e01c49ce2d7707511aac84bcc3dba8eed753c0c57cdd214d7d8e5ea1b00d850b8
-  team: smartcityframework
+  team: smartcityframeworkold
 - name: "Consensus PPI Analysis template"
   description: "Draft of ConsensusPPI template Analysis"
   category: "document"
   url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/ies-city_framework/TechnicalArtifacts/ConsensuPPIAnalysis_template.xlsm
   md5: c03a9083b3f86570936fe1f0fbdac1cc
   sha512: 55b48ffe383e01afd01782e9bda42c31dedd3b8fe063ee993b36c91655e5140e88562156691f2285f714af2331a3154d3f5da6af88849a6856441c24df9152e7
-  team: smartcityframework
+  team: smartcityframeworkold
 - name: "Deployed PPI Initial Data"
   description: "Initial Data from Deployed PPI WG"
   category: "document"
   url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/ies-city_framework/TechnicalArtifacts/DeployedPPI_InputData.xlsx
   md5: f8211c23444faf6a2ac909c73f760365
   sha512: 15ff569eecacfb291f5529238360190e10edc38d75e0872823a0587a722a7ad0d5be8d034f6efa6901689cf640628fe2fa8bc0638d395cb518125a54ee5be9e2
-  team: smartcityframework
+  team: smartcityframeworkold
   
 #######################################
 # smartcityframeworkkickoffworkshopnist
