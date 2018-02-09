@@ -398,3 +398,11 @@
   sha512: 72d1eb7170e755663794df464b17279b91a70229b7649761ead111faf1538fd1b9e64677e5cbbfe5f5b395c80e77ead7d895d344a7f9495367a8b6c1065fb94e
   team: austinmidpoint
   
+
+- name: "IES-City Framework February 8 Workshop Presentations"
+  description: "IES-City Framework February 8 Workshop Presentations"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ies-city_framework/IES-CityFrameworkDraftReveal20180208-presented.pdf
+  md5: 851ee5989bb711cc9520d9d37125d60c
+  sha512: a078b5e7f548e437b945cda79816ffe0526fba0e3606bea7b82db40fb19281d498b03654f3e90e0fb8429108c5646ed32d250b09f6100e735ffb888df596bc6d
+  team: iescityframeworkdraft
