@@ -8,8 +8,81 @@
 #   sha256: sha256 checksum
 #   team: NistPagesTemplate Team id -- NistPagesTemplate for all
 #   featured: true (if item should be featured)
-
-
+#######################################
+# IES-City Framework Release 1.0
+#######################################
+- name: "IES-City Framework Release v1.0 20180930"
+  description: "This is the release of the Internet of Things-Enabled Smart City Framework (IES-City Framework)"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ies-city_framework/IES-CityFramework_Version_1_0_20180930.pdf
+  md5: 214be3b5693b916c31fc603a28db1682
+  sha512: fe44c908a1627f2f818797da2a6100651f54e991c35a97adcf4764808ab4183efcb1291915e67f758b47f0028cffe9c84a57a03779a8b59507de9ce52cd4a470
+  team: iescityframework
+- name: "IES-City Framework Application Framework Tool"
+  description: "IES-City Framework Application Framework Tool"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ies-city_framework/TechnicalArtifacts/IES-CityApplicationFrameworkTool.xlsm
+  md5: 635171a6a40a51037f750946234bdec7
+  sha512: e657a3772ad506bd5e8de7efd32a6ce3bd395aaa1cacac069bd861f1b27eb138c7429283a7529922813ed42d36c62d59f8688dd74f27711e722fadebabc92984
+  team: iescityframework  
+- name: "IES-City Framework ConsensusPPI Analysis Template"
+  description: "IES-City Framework ConsensusPPI Analysis Template"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ies-city_framework/TechnicalArtifacts/ConsensusPPIAnalysis_template.xlsm
+  md5: 1e609bb46f69ca5cf1b9670c1b991c9f
+  sha512: f34f5e658bab0def9b63750a674df0b0a4a05a88b4950933ddfbb0ccdead930047925fd9030d95a08fc49a4624db0947a111178817c757da8c5ee85d9b5aad51
+  team: iescityframework
+- name: "IES-City Framework ConsensusPPIAnalysis_Comparison"
+  description: "IES-City Framework ConsensusPPI Analysis Comparison"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ies-city_framework/TechnicalArtifacts/ConsensusPPIAnalysis_Comparison.xlsm
+  md5: b7fa08f6afefd2188216eb85da26c4be
+  sha512: e5a88d4b4f59090bf43c38376c5bf167690540105df4a7999a39e8ab339de374c56114a5320996adb3aa44eb74f3cb3e5cefb257d029a5bc4225da613d2e38b7
+  team: iescityframework
+- name: "IES-City Framework ConsensusPPI Analysis: AWS"
+  description: "IES-City Framework ConsensusPPI Analysis: AWS"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ies-city_framework/TechnicalArtifacts/ConsensusPPIAnalysis_aws.xlsm
+  md5: a4195a45e64fe05c12ade1158c97e3ba
+  sha512: e32f3144f85da0f2a5ca7a657ee6ed49cac5a6400f5e488b59cbd7db509d9557fb5efd90c7fcb5a52e62bc34876717fa171b2821141eea07146aeea9e71db402
+  team: iescityframework
+- name: "IES-City Framework ConsensusPPI Analysis: CVRIA"
+  description: "IES-City Framework ConsensusPPI Analysis: CVRIA"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ies-city_framework/TechnicalArtifacts/ConsensusPPIAnalysis_CVRIA.xlsm
+  md5: 00bf34aeb87e9316f20f74a884007a43
+  sha512: 19cfce993c47f881ceef586a9d0e4c18d9dd41de8f24d627874cb5069bb445f1073de242a9295a622b9b6ccd16da92aa35bb05dd47608d967e5541688c2026c8
+  team: iescityframework
+- name: "IES-City Framework ConsensusPPI Analysis: E015"
+  description: "IES-City Framework ConsensusPPI Analysis: E015"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ies-city_framework/TechnicalArtifacts/ConsensusPPIAnalysis_E015.xlsm
+  md5: 47baf90dca5935dd8c3150d7697d08e6
+  sha512: 93d6f28caf09e623c9bfbd2cc8e32ec8df5601c243faa7b4c3c6316ee4be5980eddcdefc32b6495c34507c21d8813088d9f786702ae348acb0485006813be361
+  team: iescityframework
+- name: "IES-City Framework ConsensusPPI Analysis: FIWARE"
+  description: "IES-City Framework ConsensusPPI Analysis: FIWARE"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ies-city_framework/TechnicalArtifacts/ConsensusPPIAnalysis_FIWARE.xlsm
+  md5: d5a675be5a077989e565c3aa277f2f0b
+  sha512: 26d31fd1060c670c82ed052e3900f9661859ae51417267898228317682bbac6a1703bec0ff7668eea23425da5f25f4a90910b17ecf23b424a2ee19d09ed01218
+  team: iescityframework
+- name: "IES-City Framework ConsensusPPI Analysis: oneM2M"
+  description: "IES-City Framework ConsensusPPI Analysis: oneM2M"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ies-city_framework/TechnicalArtifacts/ConsensusPPIAnalysis_oneM2M.xlsm
+  md5: ab1f763ccf1a605451a21e8c4270175c
+  sha512: 5bd607e78376cf302d91b9699904de0591b945c3db677680e2154f493468536f420cf50a1030481b7d86b7bd7df583abc27393f4493977e62abd7157b2f5cb33
+  team: iescityframework
+- name: "IES-City Framework ConsensusPPI Analysis: OpenIoT"
+  description: "IES-City Framework ConsensusPPI Analysis: OpenIoT"
+  category: "document"
+  url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/ies-city_framework/TechnicalArtifacts/ConsensusPPIAnalysis_OpenIoT.xlsm
+  md5: 88927891c79781c2572c853b7c4b8ba7
+  sha512: 972db41e4f37d6a60bf567cccd83500e6e864358b0aba359e5eabed6cf5ceb9b39c5e13e5cd63fac8b108089a430328d8acaddf16e4a7f2a0913913b63d897b3
+  team: iescityframework
+ 
+  
 #######################################
 # IES-City Framework Draft for Review
 #######################################
@@ -396,9 +469,7 @@
   url: https://s3.amazonaws.com/nist-sgcps/smartcityframework/files/WorkingGroups/DeployedPPI/Deployed_PPI_status_20160615.pptx
   md5: 77d71fef989cc30f012cf90a683e7acf
   sha512: 72d1eb7170e755663794df464b17279b91a70229b7649761ead111faf1538fd1b9e64677e5cbbfe5f5b395c80e77ead7d895d344a7f9495367a8b6c1065fb94e
-  team: austinmidpoint
-  
-
+  team: austinmidpoint  
 - name: "IES-City Framework February 8 Workshop Presentations"
   description: "IES-City Framework February 8 Workshop Presentations"
   category: "document"
@@ -406,3 +477,5 @@
   md5: 851ee5989bb711cc9520d9d37125d60c
   sha512: a078b5e7f548e437b945cda79816ffe0526fba0e3606bea7b82db40fb19281d498b03654f3e90e0fb8429108c5646ed32d250b09f6100e735ffb888df596bc6d
   team: iescityframeworkdraft
+  
+- 

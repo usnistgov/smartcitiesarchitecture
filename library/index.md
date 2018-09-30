@@ -13,10 +13,17 @@ layout: page
 <hr />
 
 
-## Framework Document Drafting
+
+
+<a id="document">&nbsp;</a>
+
+## IES-City Framework Release 1.0
+
+This section contains the release documents for the IES-City Framework Release v1.0.
+
 <dl>
 {% for document in site.data.documents %}
-  {% if document.team == "iescityframeworkdraft" %}
+  {% if document.team == "iescityframework" %}
   
   <dt>
     <a href="{{document.url}}" >
@@ -28,6 +35,7 @@ layout: page
 {% endfor %}
 </dl>
 
+---
 
 <a id="Presentation">&nbsp;</a>
 
@@ -90,9 +98,27 @@ layout: page
 </dl>
 
 
-<a id="document">&nbsp;</a>
+---
 
 ## Other Documents
+
+### Framework Document Drafting
+
+<dl>
+{% for document in site.data.documents %}
+  {% if document.team == "iescityframeworkdraft" %}
+  
+  <dt>
+    <a href="{{document.url}}" >
+    {{document.name}} ({{document.category}})</a>
+  </dt>
+  <dd>{{document.description}}</dd>
+
+  {% endif %}
+{% endfor %}
+</dl>
+
+
 <dl>
 {% for document in site.data.documents %}
 
@@ -108,6 +134,8 @@ layout: page
 {% endif %}
 {% endfor %}
 </dl>
+
+---
 
 ## Videos
 
@@ -145,4 +173,5 @@ layout: page
 
 
 ---
+
 Checksums for the documents stored for this site can be found [here](checksums)
